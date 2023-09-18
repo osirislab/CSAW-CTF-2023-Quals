@@ -1,0 +1,107 @@
+Content-Type: multipart/mixed; boundary="===============4572326326243990692=="
+MIME-Version: 1.0
+Received: by fcde:e077:d051:249c:8ac8:f00c:3bc0:9cd3 with SMTP id o17-12048; Thu, 29 Jun 2023 03:07:30 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=5307; cv=none; d=felicia.com; s=arc-20160816;b=ZQu3X7BZgWowl/xR8KEs8E0xjC+k6vMvWUKMIjglsbe2iTNEDEXBQJCxsZvlQCALS+/sKGcxc34nhGROC+DDzg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=felicia.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=ORunpLYDWrGCzBXBYVUQiMJjbWPFdl4IefBkqPUa7+Uo==;fh=iWxr1u1Pq0/ke+140q1kEToqiEw61Ncmk7y21rdMWw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=felicia.com; s=6508; t=3422; x=5881;h=from:to:subject:date:message-id;bh=mnL4R/DZhhqJjldHtu1RvE66dQ2evhpaSTM5kUAQp+GF==;b=0oJ6yxvZqBUFi/wN2g/lnPgGKMyiHB3E6g1DUFynDw==
+X-Sender-IP: 67.151.111.248
+X-Sender: felicia_finance@felicia.com
+X-Cross-Received-Date: Thu, 29 Jun 2023 03:07:30 
+From: felicia_finance@felicia.com
+To: hudsonhustles844@gmail.com
+Subject: Monthly Finance Report - June
+Date: Thu, 29 Jun 2023 03:07:30 
+
+--===============4572326326243990692==
+Content-Type: multipart/alternative; boundary="===============0369750974926712404=="
+MIME-Version: 1.0
+
+--===============0369750974926712404==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello Hudson Hustles,
+
+We hope this email finds you well. First and foremost, we would like to extend our sincere apologies for the delay in providing you with our monthly finance report for June. We appreciate your patience and understanding.
+
+Now, as we approach the end of June, we want to provide you with an overview of our financial activities and highlights for this month.
+
+**Financial Overview:**
+- Total Revenue: $55,890
+- Total Expenses: $38,220
+- Net Profit: $17,670
+
+**Key Highlights:**
+1. Increased Subscription Sign-ups: This month, we saw a significant increase in new subscribers to our premium financial advisory services, contributing to the boost in our revenue.
+2. Cost Optimization Efforts: We have successfully implemented cost-saving measures in various operational areas, resulting in a more efficient use of resources and a healthier bottom line.
+3. Market Analysis Webinar: Our Market Insights team conducted a successful webinar on navigating the current market trends, which not only received positive feedback but also attracted potential new clients.
+
+**Outlook for July:**
+Looking ahead to July, we are focused on maintaining the momentum gained this month. We aim to further enhance our service offerings and expand our client base.
+
+Please feel free to reach out to us if you have any questions or require more detailed information. We value your partnership and trust in Felicia Finance.
+
+Best regards,
+Felicia Finance Team
+--===============0369750974926712404==--
+
+--===============4572326326243990692==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Hudson_Hustles_Financial_Report_June_2023.pdf"
+
+JVBERi0xLjQKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgaHR0cDovL3d3
+dy5yZXBvcnRsYWIuY29tCjEgMCBvYmoKPDwKL0YxIDIgMCBSCj4+CmVuZG9iagoyIDAgb2JqCjw8
+Ci9CYXNlRm9udCAvSGVsdmV0aWNhIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9G
+MSAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRl
+bnRzIDcgMCBSIC9NZWRpYUJveCBbIDAgMCA2MTIgNzkyIF0gL1BhcmVudCA2IDAgUiAvUmVzb3Vy
+Y2VzIDw8Ci9Gb250IDEgMCBSIC9Qcm9jU2V0IFsgL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMg
+L0ltYWdlSSBdCj4+IC9Sb3RhdGUgMCAvVHJhbnMgPDwKCj4+IAogIC9UeXBlIC9QYWdlCj4+CmVu
+ZG9iago0IDAgb2JqCjw8Ci9QYWdlTW9kZSAvVXNlTm9uZSAvUGFnZXMgNiAwIFIgL1R5cGUgL0Nh
+dGFsb2cKPj4KZW5kb2JqCjUgMCBvYmoKPDwKL0F1dGhvciAoXChhbm9ueW1vdXNcKSkgL0NyZWF0
+aW9uRGF0ZSAoRDoyMDIzMDkwNDA0NTMwOSswMCcwMCcpIC9DcmVhdG9yIChcKHVuc3BlY2lmaWVk
+XCkpIC9LZXl3b3JkcyAoKSAvTW9kRGF0ZSAoRDoyMDIzMDkwNDA0NTMwOSswMCcwMCcpIC9Qcm9k
+dWNlciAoUmVwb3J0TGFiIFBERiBMaWJyYXJ5IC0gd3d3LnJlcG9ydGxhYi5jb20pIAogIC9TdWJq
+ZWN0IChcKHVuc3BlY2lmaWVkXCkpIC9UaXRsZSAoXChhbm9ueW1vdXNcKSkgL1RyYXBwZWQgL0Zh
+bHNlCj4+CmVuZG9iago2IDAgb2JqCjw8Ci9Db3VudCAxIC9LaWRzIFsgMyAwIFIgXSAvVHlwZSAv
+UGFnZXMKPj4KZW5kb2JqCjcgMCBvYmoKPDwKL0ZpbHRlciBbIC9BU0NJSTg1RGVjb2RlIC9GbGF0
+ZURlY29kZSBdIC9MZW5ndGggMTU1NQo+PgpzdHJlYW0KR2F0VTRtOERbdSdgSD9WaCErMUxHIS0/
+JFlKXmJJLXFoJFwkP1NwSTVoSltbWWJlRUlQTk03WixzKVUoPDJTcWtiYEVjSmEzbSszcEtXQ2Bp
+JFVAMlpPNVguJylxa0k2NVtPWiJedUc/XyIlazwvbDJJMiQraTpKM01ccm8yZStCbVokTGhNTytt
+TydwaFxLQCZzdU4/NGlWaXBxcGFcKUU7N3BSPERqLlRKdWJYJF8rMktPY1BTK2kpcjY8UkgvO280
+SSI4JmtFVzxyJiRnY09qRTVCOCczLyZjOmlcdWlcTjhpckxIMjQiQ05GR1p0bVtDLiJwJFFXIV1T
+LjRtJ0RsN2JOaFYkY1RGKSRrPz1PTnNraV9FUCs6VDRGX0tcRmg/cVM6Z0JQTDpkVFohL0czTlcp
+NGE8byovUGMoYDprXkYwNTFKcXVwaGdtJVdPR10zSyNPPlEwJlglLVlgKm1FVzZ1ZCZAWik0PVs1
+XjNiUkA5aGNGTF1lRHIoQ0Q2bilvLVpsaGAkY20uWGNcQDJDNiloXSNWWiIjbyZWZ1duNz9NJDkj
+Om8wbS41OmQ8PW8zZEZhOkJobiRAZ0YmTUVPUEBOOilPJkBFS1UhYVpOcFs0MSYjL1FRVCZfUkwy
+Yl5MUkEhX102MigsVjQ7SzBRNTNKJWMyKTVncjBdIWQpbWpwVSZNSWdlUzE3LidzJyMqVjxxRms+
+L0gzQ1lIVj9mOiQ4c0BOZ25ESy5nJURlX2JtPE4yQTVncTZzY21ucFFAVixNQVBdKj0yM3NIZjxi
+QFBHbzlGRU1DUHVIZ1A/T09da1VrLV1bT2xWX0pbPFJrSUlwbjNSLyYiNnFRWVxXajQzPiVcJCgo
+NmJdVyI7UHUnSiJacy9Ob1ZrY1BALmYkOGYhRlRmaENnST1lYDo/QjE4aldHa1xLZF1TIzw2KDlD
+UWJNRVo1bmNYJnNsRSgpZTs+UTojTFgmKV8zRFlgQFJXR1whWSEnWkA9JVRMbldnPS4sO0ovLj8o
+KEwnKHRsUSsyJzNjajkyL1EvIyMuTC1iVldZJmhoZSkrUDYyYlUtTCdvYmRQJm06RDstSERjK18u
+YlNyQisrWENlW1lXVVI6MDYiOVE4M3I1TEUvIydeXDFlMkU+V2YhN2AtQ3FRT15Ka28xclRvSWI6
+VCMxKmRDNyVudVhkQDFBKGUyLiU1JS1SZVo4VnEjITxEbVFqIzJLXUNkRW1TNWY7KmtrQW9ASXFj
+Wj49J2A/XW1TOFouSyc1KkY0JVQ/YVEqJl9sLi1uU0FbS0deMVBOaWltUkVDMVtDSnFSK0JNPiFv
+YVxraUxOL2xfInMzOTMqbF5VYzNKWFlbVjJxb1E/R0dXLUc1KyRSTXBTTi90UjRHaWtZcGhJWClE
+YEp0aUMrdUw9Z3FLVjopZ2c2ZzJvb2hBRCFmY2dQVVU+RDQwZ3JBOXI3SnQsKzNMdW9bW2t0ZDVG
+SkZIPU9SY1UlQi4xQ1A/JT1qUl5VIWNsJjFYNTAiaD8pN2JvV2YlSS1eb15DcDQ1a0wnYSRxUW5d
+OlZCYF5wclRRM1xadVtLQykiJjx1PkFdJShWWXJXITlAc3E2ZmxpJzVhP2pdIUBlUUFcJ3RcKUc6
+TzIxI3FFOmtVMm5tO0c6K3JZSWpJVlcxbUIkMT8zYms5My1pPDZOYzNTQjsrKSVQNUA0XGYsZTFn
+MUlZSiUhNmdwTyxnNmI3UFgvSHFPWGVWIW1rI0NbNjpxO1VQPEhgVWxWJzlAZFY9UWRkaT1idFhI
+JGYrakRBJT1WYClraDYwVCRbWDI6I1ZbNzcqIzdnMilTOTZCaGNJWD1fWW5XUmFjVjAtdW4vJjUr
+a2RsZHVjKGc3XjJKRzRAWk8kYEtiZixMIVZcVGw7RENGRlo5OlJDOkNvQWQ+aFAqP3FZR1JwLiU2
+R1ZYMlRmWyJ1RFsoRV4nb0l1cEM4SCUzP1EqVm0oTSlkT0ljXWwlcC0lWGVBdXFHPy1Iam9CLCEy
+MVQvQ2BGYFovOHNSYjk2NW9LOC1Jb2VuNSM6SCM5JDxLRl1pWEhMUDk3IzwtMz1+PmVuZHN0cmVh
+bQplbmRvYmoKeHJlZgowIDgKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDczIDAwMDAwIG4g
+CjAwMDAwMDAxMDQgMDAwMDAgbiAKMDAwMDAwMDIxMSAwMDAwMCBuIAowMDAwMDAwNDA0IDAwMDAw
+IG4gCjAwMDAwMDA0NzIgMDAwMDAgbiAKMDAwMDAwMDc1NSAwMDAwMCBuIAowMDAwMDAwODE0IDAw
+MDAwIG4gCnRyYWlsZXIKPDwKL0lEIApbPGNlMWJhYTZiZjZkZThiZTZlM2ExZGZhOGNmMWFiYjlk
+PjxjZTFiYWE2YmY2ZGU4YmU2ZTNhMWRmYThjZjFhYmI5ZD5dCiUgUmVwb3J0TGFiIGdlbmVyYXRl
+ZCBQREYgZG9jdW1lbnQgLS0gZGlnZXN0IChodHRwOi8vd3d3LnJlcG9ydGxhYi5jb20pCgovSW5m
+byA1IDAgUgovUm9vdCA0IDAgUgovU2l6ZSA4Cj4+CnN0YXJ0eHJlZgoyNDYwCiUlRU9GCg==
+
+--===============4572326326243990692==--

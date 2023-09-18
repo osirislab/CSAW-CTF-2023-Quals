@@ -1,0 +1,13 @@
+{
+  "name": "Ransomware",
+  "category": "Incident Response",
+  "description": "Can you recover our files from this ransomware?\n\nnc {box} {port}",
+  "flag": "csawctf{c0n71_r4n50mw4r3_1n_c#}",
+  "type": "dynamic",
+  "initial": 500,
+  "minimum": 50,
+  "decay": 275,
+  "requirements": [ "Initial Access" ],
+  "box": "misc.chal.csaw.io",
+  "internal_port": 5000
+}

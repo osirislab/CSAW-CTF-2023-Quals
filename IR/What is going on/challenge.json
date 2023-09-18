@@ -1,0 +1,11 @@
+{
+  "name": "What is going on?",
+  "category": "Incident Response",
+  "description": "The HudsonHustle company has contacted you as they are not able to figure out why they can not access any of their files. Can you figure out what is going on?",
+  "flag": "csawctf{h4ck1N6_7R41N5_F0r_D4y5!}",
+  "type": "dynamic",
+  "initial": 500,
+  "minimum": 50,
+  "decay": 275,
+  "requirements": [ "Disclaimer" ]
+}

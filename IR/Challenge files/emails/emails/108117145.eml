@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============6620331714546640342=="
+MIME-Version: 1.0
+Received: by 26f9:74b2:5756:4f88:9811:b320:1cbe:c15f with SMTP id o17-58359; Mon, 03 Jul 2023 08:59:12 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=5300; cv=none; d=examle.com; s=arc-20160816;b=wp4hY/nGR9x+ytgpJSKJ3Bl4UHekRRO+tuPrVQ8BMsSlCl6WNVhKHvkinxCqCc98nPH14ihw4zd7Ngg3V+SSog==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=examle.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=mhbktwV1Ouox1r36nDfvc0I3jJa9BHaNuMStUXZ1wpYl==;fh=pGiv1/rQWOHCsLr09q3sEXbHMmuIxEaqm4eEILsmIg====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=examle.com; s=6788; t=5673; x=1012;h=from:to:subject:date:message-id;bh=f8M+Iaa3wsSgUqpMhlikh9cgSXU7+aptu0QBdAN6+9vt==;b=OuuR/vfizU5T8ue0LwfxJpmASIlzbLWuopmVpfsWog==
+X-Sender-IP: 93.85.214.187
+X-Sender: Shaneemail@examle.com
+X-Cross-Received-Date: Mon, 03 Jul 2023 08:59:12 
+From: Shaneemail@examle.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry/Complaint: Availability of Jet Skis
+Date: Mon, 03 Jul 2023 08:59:12 
+
+--===============6620331714546640342==
+Content-Type: multipart/alternative; boundary="===============0425654465844656504=="
+MIME-Version: 1.0
+
+--===============0425654465844656504==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Shane Thompson, and I recently visited the Hudson River area with my friends to enjoy some jet skiing adventures. We had heard great things about Hudson Hustles and were excited to experience the thrill of jet skiing in this beautiful location.
+
+However, upon reaching your establishment on the date of our reservation (August 25, 2023), we were disappointed to find out that there were no jet skis available for us. This situation was quite disheartening as we had been looking forward to this outing for a long time.
+
+We understand that sometimes unforeseen circumstances can lead to such issues, but we were surprised that there was no prior communication or notification regarding the unavailability of jet skis. It would have been helpful if we had been informed in advance, allowing us to make alternative plans or reschedule our visit.
+
+I would appreciate it if you could provide some clarity on this matter and let us know if there was a specific reason for the lack of availability on the day of our reservation. Additionally, if there are any steps being taken to prevent such occurrences in the future, please share that information as well.
+
+Thank you for your prompt attention to this matter, and I look forward to hearing from you soon.
+
+Sincerely,
+Shane Thompson
+--===============0425654465844656504==--
+
+--===============6620331714546640342==--

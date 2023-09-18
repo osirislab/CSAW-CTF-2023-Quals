@@ -1,0 +1,51 @@
+Content-Type: multipart/mixed; boundary="===============8346754878798074698=="
+MIME-Version: 1.0
+Received: by d6e0:aab2:868d:51d6:2260:a135:5514:723a with SMTP id o17-89408; Thu, 13 Jul 2023 07:28:27 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6530; cv=none; d=petsearchers.com; s=arc-20160816;b=1nPluuNjhI4pQGLly/Ix1qp/XtBwYM7Ky8WdYJhESJAmUcjnsHOaPW9UWIkP0MvzUct+OV5b5S7pBqAolt+bvQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=petsearchers.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=GkxR9rF7udOaVHhLYnzy32zS3UHDSq+GfnQWPVryf4aH==;fh=DMlDKbwS5RDblLGNzELY5s2hGDhChFsSZDLK/AY4XQ====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=petsearchers.com; s=3133; t=8640; x=1738;h=from:to:subject:date:message-id;bh=sGm7rrlqeHH1wePpO5FNdRxKHzxJjwxoN1MvlcX813a+==;b=qV7zYU0yfJXJydr1jogI0lh+X+GwqvtMXks3t0PyyQ==
+X-Sender-IP: 132.147.210.78
+X-Sender: contact@petsearchers.com
+X-Cross-Received-Date: Thu, 13 Jul 2023 07:28:27 
+From: contact@petsearchers.com
+To: hudsonhustles844@gmail.com
+Subject: Find Your Lost Pet with PetSearchers!
+Date: Thu, 13 Jul 2023 07:28:27 
+
+--===============8346754878798074698==
+Content-Type: multipart/alternative; boundary="===============5542376333772892071=="
+MIME-Version: 1.0
+
+--===============5542376333772892071==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Find Your Lost Pet</title>
+</head>
+<body>
+    <p>Dear Pet Owner,</p>
+    <p>We understand how heart-wrenching it can be to have a beloved pet go missing. That's why PetSearchers, Inc. is here to help you reunite with your furry friend.</p>
+    <p>Our team of experienced pet detectives and search experts is dedicated to finding lost pets quickly and safely. With our advanced technology and proven strategies, we've helped countless pet owners like you bring their pets back home.</p>
+    <p>Why choose PetSearchers?</p>
+    <ul>
+        <li>24/7 emergency hotline</li>
+        <li>Experienced search teams</li>
+        <li>GPS tracking and surveillance</li>
+        <li>Local and nationwide coverage</li>
+        <li>Proven success stories</li>
+    </ul>
+    <p>Don't wait any longer to find your lost pet. Contact us today, and let us bring your furry family member back to you.</p>
+    <p>Contact Information:</p>
+    <p>Email: contact@petsearchers.com</p>
+    <p>Phone: 123-456-7890</p>
+    <p>Website: <a href="https://infected-phishing.csaw.io/">www.petsearchers.com</a></p>
+</body>
+</html>
+--===============5542376333772892071==--
+
+--===============8346754878798074698==--

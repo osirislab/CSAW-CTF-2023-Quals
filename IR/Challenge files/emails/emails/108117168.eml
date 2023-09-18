@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============8399968296127218345=="
+MIME-Version: 1.0
+Received: by ab69:c5bc:fb26:013b:e7b6:d3b4:5300:3c9b with SMTP id o17-27637; Sun, 23 Jul 2023 23:19:35 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=5796; cv=none; d=inquiry.com; s=arc-20160816;b=cikql0Gj3sgjYMpHH9nsTqSvQRkzqbLVLmeZ+uPKuT8cMHhIlS2Lb7y4mmVXUr9/vxbbvy1s2/W7lpNfLsDrNA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=inquiry.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=shUDv6nWGfOI1LTQbZ540qrjRz+Tm5Hz38HCJYBoLr/U==;fh=8dIXwZ9L3JeFwcFPQRi5djQS1PcybNkYxF+AUZzFLw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=inquiry.com; s=4240; t=7050; x=3195;h=from:to:subject:date:message-id;bh=vyGQHdOXBx2Uu0mo9FBwUVVEkXuQcuDVbJmMXtTJArbe==;b=BOYyJRxUVhzbba8wiqu9xWd73Id/Ha4NG/0mp8dLGw==
+X-Sender-IP: 182.170.110.229
+X-Sender: customer_inquiry123@inquiry.com
+X-Cross-Received-Date: Sun, 23 Jul 2023 23:19:35 
+From: customer_inquiry123@inquiry.com
+To: hudsonhustles844@gmail.com
+Subject: Concerns Regarding Jet Ski Size
+Date: Sun, 23 Jul 2023 23:19:35 
+
+--===============8399968296127218345==
+Content-Type: multipart/alternative; boundary="===============3287244864726114049=="
+MIME-Version: 1.0
+
+--===============3287244864726114049==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My family and I recently had the opportunity to experience your jet ski recreation services on the Hudson River, and while we had a fantastic time, I have a concern I'd like to address.
+
+The jet ski we rented seemed to be a bit too big for my younger child, who found it challenging to handle. It made the experience somewhat intimidating for them, and safety is our top priority. I wanted to inquire if you have any smaller jet ski options available for kids or if you have any recommendations on how we can ensure a more suitable experience for our younger family members in the future.
+
+Thank you for your attention to this matter, and I look forward to hearing from you soon.
+
+Sincerely,
+Evelyn Johnson
+--===============3287244864726114049==--
+
+--===============8399968296127218345==--

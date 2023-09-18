@@ -1,0 +1,11 @@
+{
+  "name": "Recover Host files",
+  "category": "Incident Response",
+  "description": "Please recover my host files!",
+  "flag": "csawctf{dO3s_tHis_L00k_1nF3C7ed?}",
+  "type": "dynamic",
+  "initial": 500,
+  "minimum": 50,
+  "decay": 275,
+  "requirements": [ "C2C server" ]
+}

@@ -1,0 +1,54 @@
+Content-Type: multipart/mixed; boundary="===============0127257898140858096=="
+MIME-Version: 1.0
+Received: by 8546:7ab0:7718:8251:fcf4:9f5e:c52a:edd7 with SMTP id o17-50026; Tue, 11 Jul 2023 05:44:44 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=1428; cv=none; d=example.com; s=arc-20160816;b=fWrNnrj+ZEd7UHLbhQAYfwMq0owkbF2CvOB6nEqQWnzZpnclMZqnwd9XFPUACmny2ZhbMejG2++Q5/Fcf3Esog==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=example.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=0UfqrLqEBxur4BsngLXLJmxLmc6tFZ9yzzN4p1GK3LM8==;fh=CkHT/k2TauxNcmj0xf8fMMOsGAqJWIlk6N1BgAxl2Q====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=example.com; s=2289; t=3577; x=3885;h=from:to:subject:date:message-id;bh=kZW3fVrItg7TcQnNObh/wINqRsnOzxF+eRQKb4nfys5r==;b=l0BGp2F97Y62XYWsXa0dvG+txF4DxTb2jjt4TDaBFw==
+X-Sender-IP: 128.76.242.183
+X-Sender: senderemail@example.com
+X-Cross-Received-Date: Tue, 11 Jul 2023 05:44:44 
+From: senderemail@example.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry/Complaint about Hudson Hassles Jet Skis
+Date: Tue, 11 Jul 2023 05:44:44 
+
+--===============0127257898140858096==
+Content-Type: multipart/alternative; boundary="===============1555047756283193228=="
+MIME-Version: 1.0
+
+--===============1555047756283193228==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hassles Team,
+
+I hope this email finds you well. My name is Emily Johnson, and I recently had the pleasure of experiencing one of your jet ski tours on the Hudson River. First and foremost, I want to express my gratitude for the exhilarating experience your team provided; it was truly unforgettable.
+
+However, during the tour, I couldn't help but wonder if you offer any opportunities for customers to purchase the jet skis you use for your tours. The thought of owning one of those jet skis has been on my mind ever since, and I believe it would be an excellent addition to my recreational activities.
+
+I have a few questions and concerns regarding the process of potentially purchasing one of your jet skis. If you could kindly address the following points, I would greatly appreciate it:
+
+1. Pricing: Could you please provide information on the pricing for your jet skis, including any available models and their respective costs?
+
+2. Financing Options: Do you offer any financing or installment plans for customers interested in purchasing your jet skis?
+
+3. Maintenance: What maintenance and servicing support do you provide to customers who buy your jet skis?
+
+4. Availability: Are your jet skis currently available for sale, and if so, do you have any upcoming promotions or discounts?
+
+5. Test Rides: Is it possible to schedule a test ride to get a feel for the jet ski's performance before making a purchase decision?
+
+I understand that these questions may require some time to answer, and I would be more than happy to receive a response at your earliest convenience. Please feel free to respond to this email or reach out to me directly at (555) 123-4567 if that would be more convenient.
+
+Additionally, if you have any brochures or product catalogs that provide more information about your jet skis, please consider attaching them to your response.
+
+Thank you once again for the fantastic experience your team provided, and I look forward to hearing from you soon.
+
+Sincerely,
+
+Emily Johnson
+--===============1555047756283193228==--
+
+--===============0127257898140858096==--

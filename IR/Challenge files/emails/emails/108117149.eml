@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="===============2360127780146909968=="
+MIME-Version: 1.0
+Received: by 0b11:b00d:724e:b3eb:08ee:41a9:d046:5ca0 with SMTP id o17-56884; Fri, 07 Jul 2023 02:15:29 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=1094; cv=none; d=email.com; s=arc-20160816;b=fMdpeOXMucVd78nglMrdMZwMkzsEfl2k0DcloXrkvVaXoNU9ybzy6Efwa8Y/Vzf8OWmiJfzqQZ+RPdNeNEdM5A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=N4IoZ/DXMJNgZUECS3LPGZ5jOu+zatxxdU+qkGmE8WFN==;fh=pAp3UafSDccZH328pJvHLhBt4ME2MUAe7qyYXHaftA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=8578; t=3105; x=2988;h=from:to:subject:date:message-id;bh=teYH5C6F6P0st2TTY51M8jdQzvejg7S7REq85ClZr5wO==;b=aTrfS6NsUe9oKmuWlKlOnqF2vqVpD5lAmkjBAHA4oQ==
+X-Sender-IP: 139.236.148.64
+X-Sender: castemer@email.com
+X-Cross-Received-Date: Fri, 07 Jul 2023 02:15:29 
+From: castemer@email.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry/Complaint: Missing Handle on Jet Ski
+Date: Fri, 07 Jul 2023 02:15:29 
+
+--===============2360127780146909968==
+Content-Type: multipart/alternative; boundary="===============7053522210020570578=="
+MIME-Version: 1.0
+
+--===============7053522210020570578==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles, I recently used your jet ski services on the Hudson River and found a missing handle on the right side of the jet ski's steering column, which raised safety concerns; I request prompt action to address this issue for the safety of all riders.
+--===============7053522210020570578==--
+
+--===============2360127780146909968==--

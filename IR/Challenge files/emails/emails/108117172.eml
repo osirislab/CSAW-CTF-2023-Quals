@@ -1,0 +1,42 @@
+Content-Type: multipart/mixed; boundary="===============5283144782992467940=="
+MIME-Version: 1.0
+Received: by 08df:5c97:db4b:a0ef:71a0:3bbd:b8a3:c1d0 with SMTP id o17-17322; Sat, 29 Jul 2023 00:27:26 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6861; cv=none; d=examail.com; s=arc-20160816;b=svPc2EQ75NM3GurRO7tvC9wBydGZdX2JejJiDQwNmSyyWXnVI/1qRNfA1sRIVulVEFTGGccUxWAxHARfgxc1/g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=examail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=h+H4yMf1I5WT1V58UulywAi4Fv8xu3TsfvZVW8Ojr+2H==;fh=JgHomDbkj75ZX/w758O9ZF7A8wF0wsuN3vitcY9DFw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=examail.com; s=644; t=6415; x=2722;h=from:to:subject:date:message-id;bh=60TxAqt9PdfRkY3VGQIUaxnl/X4HV21nQbPNBokfgrkh==;b=iGjZQnEzNzH215MVSUSq67jnPvCILvYkBBpAZkTiTA==
+X-Sender-IP: 222.4.40.81
+X-Sender: alis@examail.com
+X-Cross-Received-Date: Sat, 29 Jul 2023 00:27:26 
+From: alis@examail.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry/Complaint about Ski Height
+Date: Sat, 29 Jul 2023 00:27:26 
+
+--===============5283144782992467940==
+Content-Type: multipart/alternative; boundary="===============1858172584351862957=="
+MIME-Version: 1.0
+
+--===============1858172584351862957==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Alex Thompson, and I recently had the pleasure of experiencing one of your jet ski tours on the Hudson River. Overall, it was an exhilarating and enjoyable experience, and I appreciate the effort your team puts into these recreations.
+
+However, I wanted to bring up a concern regarding the ski height during the tour. It seemed to me that the jet ski I was assigned had its ski set too high. This caused a few issues during the ride, primarily in terms of stability and control. I felt that the ski height made the jet ski less responsive and, at times, even a bit unsafe.
+
+I understand that safety is a top priority for your company, and I appreciate that. Still, I believe it's essential to ensure that all the equipment is properly maintained and adjusted for the best possible experience. While I don't have any expertise in jet ski mechanics, I thought it would be useful to share my experience as a participant.
+
+I trust that you will look into this matter and take any necessary steps to ensure the ski heights are set correctly on all your jet skis. I believe this will enhance the overall experience for your customers and maintain your excellent reputation.
+
+Thank you for your attention to this matter. I look forward to hearing from you regarding any actions taken or any insights you can provide on the ski height adjustment.
+
+Best regards,
+
+Alex Thompson
+--===============1858172584351862957==--
+
+--===============5283144782992467940==--

@@ -1,0 +1,15 @@
+services:
+  secrets:
+    build: secrets
+    environment:
+        - KEY=!!!!!w0wURG0od@r3v__:O:O
+  c2:
+    build: c2
+    environment:
+      - UPLOAD_DIR=uploads
+      - STATIC_DIR=static
+      - SECRETS_LOCATION=http://secrets:8080
+    ports:
+      - "80:8080"
+    depends_on:
+      - secrets

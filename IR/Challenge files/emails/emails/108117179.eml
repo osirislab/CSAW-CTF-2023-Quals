@@ -1,0 +1,49 @@
+Content-Type: multipart/mixed; boundary="===============6186071618939168398=="
+MIME-Version: 1.0
+Received: by e6ad:4779:731f:03ea:1cfc:a191:b119:0bb5 with SMTP id o17-85758; Sun, 06 Aug 2023 22:50:24 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=1485; cv=none; d=cleanhudsoncampaign.org; s=arc-20160816;b=nKYv9lR76sJWrLEgG+sqvJ+vAB6SiUaYqCQSH+WnA8Qe5dOTxs1hFKTfLX9OncwedX6KFEfrVYZ2E8Isw+RNZg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=cleanhudsoncampaign.org; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=tDGZpPafvRh46wAZt1Fu8Wsz17SZB6gLMqICRewJbyqL==;fh=yBqdkm6NciFztAOoOE30yG782HHqtvQWFdW1siyyWg====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cleanhudsoncampaign.org; s=1725; t=9747; x=8677;h=from:to:subject:date:message-id;bh=WCmUlnjjiQnsoxETHf3Uar1aEWpv0CpjGZkkqRVHPEhX==;b=qsP7EG8dRi0QeRhJwmCfvSIDWVNpZKu18W9l5Fhbmw==
+X-Sender-IP: 166.82.39.114
+X-Sender: info@cleanhudsoncampaign.org
+X-Cross-Received-Date: Sun, 06 Aug 2023 22:50:24 
+From: info@cleanhudsoncampaign.org
+To: hudsonhustles844@gmail.com
+Subject: Join Our Campaign Against Jet Skis in the Hudson River
+Date: Sun, 06 Aug 2023 22:50:24 
+
+--===============6186071618939168398==
+Content-Type: multipart/alternative; boundary="===============6638344010858196800=="
+MIME-Version: 1.0
+
+--===============6638344010858196800==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clean Hudson Campaign</title>
+</head>
+<body>
+    <h1>Join Our Campaign Against Jet Skis in the Hudson River</h1>
+    <p>Dear Hudson River Enthusiast,</p>
+    <p>At Clean Hudson Campaign, we are dedicated to preserving the beauty and serenity of the Hudson River. We believe that jet skis pose a threat to the river's ecosystem, safety, and tranquility.</p>
+    <p>We invite you to join our campaign to ban jet skis from the Hudson River once and for all.</p>
+    <h2>Why Ban Jet Skis?</h2>
+    <p>Jet skis are not only noisy and disruptive to the river's peaceful atmosphere, but they also contribute to water pollution and pose a danger to wildlife and other river users. Our campaign seeks to protect the Hudson River's natural beauty and ensure a safe and enjoyable environment for everyone.</p>
+    <h2>How You Can Help</h2>
+    <p>1. Sign our petition to ban jet skis on the Hudson River.</p>
+    <p>2. Volunteer with us to clean up the river and raise awareness about the issue.</p>
+    <p>3. Make a donation to support our campaign and advocacy efforts.</p>
+    <p>Together, we can make a difference and protect the Hudson River for generations to come.</p>
+    <p>Thank you for your support!</p>
+    <p>Sincerely,</p>
+    <p>The Clean Hudson Campaign Team</p>
+</body>
+</html>
+--===============6638344010858196800==--
+
+--===============6186071618939168398==--

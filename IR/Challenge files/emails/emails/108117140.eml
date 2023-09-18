@@ -1,0 +1,43 @@
+Content-Type: multipart/mixed; boundary="===============2994543840129422948=="
+MIME-Version: 1.0
+Received: by b444:7436:feb8:b80b:9cf7:e9b7:1718:ae1b with SMTP id o17-43465; Sat, 24 Jun 2023 10:21:10 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=1824; cv=none; d=securesign.com; s=arc-20160816;b=ggabmrj+Cu4L+1NcZHrjm36OBJoW/5kwcBu6U+ehUTYjk9k/h0+XAdQe3ljGaiDh5CqBhAlASWEVn6LUEHgt/w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=securesign.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=9M/nGJNyZqt+1/e8ozvP+cE81aYx6oPXs8m+a8AUd5YA==;fh=fBOTeqzlVhi7Lp7FlO60717EanXdOCu6k8Hw1Rj/1g====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=securesign.com; s=579; t=1109; x=4163;h=from:to:subject:date:message-id;bh=mFx/L1fpLjBAX0PQYb89tIYxavugIZei0GxstiplZDpg==;b=qBnZGGm/uj/b8JpOZkiI1ExqrZWioHClKUNKeT5abg==
+X-Sender-IP: 108.0.171.23
+X-Sender: contact@securesign.com
+X-Cross-Received-Date: Sat, 24 Jun 2023 10:21:10 
+From: contact@securesign.com
+To: hudsonhustles844@gmail.com
+Subject: Enhance Your Account Security with SecureSign
+Date: Sat, 24 Jun 2023 10:21:10 
+
+--===============2994543840129422948==
+Content-Type: multipart/alternative; boundary="===============5344720202654466333=="
+MIME-Version: 1.0
+
+--===============5344720202654466333==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SecureSign Security Alert</title>
+</head>
+<body>
+    <p>Dear valued user,</p>
+    <p>We take your account security seriously at SecureSign, and we want to ensure that your online experience remains safe and hassle-free. As part of our commitment to security, we are excited to introduce some new features to enhance the protection of your account.</p>
+    <p><strong>Key Security Updates:</strong></p>
+    <ul>
+        <li>Two-Factor Authentication (2FA): SecureSign now offers 2FA to add an extra layer of security to your account. Enable 2FA in your account settings today.</li>
+        <li>Recent Sign-in Notifications: You will now receive email notifications for every sign-in to your account. If you notice any unfamiliar activity, please contact us immediately.</li>
+    </ul>
+    <p>For more information on these security updates and how to implement them, please visit our website or contact our dedicated support team at <a href="mailto:support@securesign.com">support@securesign.com</a>.</p>
+</body>
+</html>
+--===============5344720202654466333==--
+
+--===============2994543840129422948==--

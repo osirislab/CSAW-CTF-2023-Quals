@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============3653399271302233166=="
+MIME-Version: 1.0
+Received: by 27ab:c075:3857:3398:5cb2:e4f9:5f45:1f8c with SMTP id o17-93870; Wed, 05 Jul 2023 06:07:00 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=8600; cv=none; d=email.com; s=arc-20160816;b=vyaGXecNtdfj3LfGR00fVsGtg9z20SXclxymBtacydmpRRy6JZ52xJIVktOu0EBchRTtd8jqvtWm69BSg49wYA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=HpwGQc59BugbFWHDw4nKIcIDpIppuu1YntK53Mwfg65q==;fh=x8gTGfvQqhVj8/jEjWFPcv+WrtA6eewrKnn2m9z+jA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=29; t=4640; x=5138;h=from:to:subject:date:message-id;bh=6C+k7ZcXJkP6Z2Nh3HLi7TwxQgS1Olpd9WEtSBQb9MPS==;b=ruYfEglY5bnDGZuGv8f99t4bo6R1YEbJGsiH1wnMYw==
+X-Sender-IP: 117.139.234.158
+X-Sender: From: header.halt@email.com
+X-Cross-Received-Date: Wed, 05 Jul 2023 06:07:00 
+From: From: header.halt@email.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry about Hudson Hustles Headquarters
+Date: Wed, 05 Jul 2023 06:07:00 
+
+--===============3653399271302233166==
+Content-Type: multipart/alternative; boundary="===============6268331412676927735=="
+MIME-Version: 1.0
+
+--===============6268331412676927735==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles,
+
+I hope this email finds you well. My name is Header Halt, and I recently came across your company, Hudson Hustles, which specializes in jet ski recreations around the Hudson River. I was quite intrigued by your services and decided to reach out with a few questions.
+
+Firstly, I would like to inquire about the location of your company's headquarters. I couldn't find this information on your website, and I'm interested in knowing where your operations are based.
+
+Additionally, I would appreciate it if you could provide me with some details about the jet ski experiences you offer, such as pricing, availability, and any special packages or discounts you may have.
+
+Thank you for taking the time to address my queries. I look forward to hearing from you soon and potentially booking an exciting jet ski adventure with Hudson Hustles.
+
+Best regards,
+Header Halt
+--===============6268331412676927735==--
+
+--===============3653399271302233166==--

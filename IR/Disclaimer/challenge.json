@@ -1,0 +1,10 @@
+{
+  "name": "Disclaimer",
+  "category": "Incident Response",
+  "description": "Please make sure to do your investigation on a machine that you don't mind having malware on as there will be some malware on these machines that will corrupt the data on your system. You have been warned! Please acknowledge this warning my putting in the following flag --> csawctf{I_will_be_careful_in_my_investigation}\n\nHere is the link for all the evidence (zip file is about 22GB and the password is `infected`) --> https://infected-vm-challenge.s3.amazonaws.com/evidence.zip\n\nBig shoutout to Axel Mierczuk and Dhyey Shah (CTFd) for help in getting this challenge together",
+  "flag": "csawctf{I_will_be_careful_in_my_investigation}",
+  "type": "dynamic",
+  "initial": 0,
+  "minimum": 0,
+  "decay": 275
+}

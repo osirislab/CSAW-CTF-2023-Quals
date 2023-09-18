@@ -1,0 +1,44 @@
+Content-Type: multipart/mixed; boundary="===============1699016418311118450=="
+MIME-Version: 1.0
+Received: by 6da5:e7b1:3a5a:4089:95b6:54e8:507f:118f with SMTP id o17-31140; Fri, 07 Jul 2023 19:25:45 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=2138; cv=none; d=gmail.com; s=arc-20160816;b=iZkr9M8syBIGbatxWuLQjHBihnxav+502F2Ia3aS7cYFU5w8aZUCDPSFAbm8uCwVPA/DKNQld/gPEpMY4APung==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=BG/ZvAaflpbeSpDlpGh3sv3wxRP/uXnxvIZe6mA0SAX4==;fh=Sbbh+Cn2fabmHoVaVIXFjdnQStEdglExbfFx2SrGyw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=3573; t=5551; x=8522;h=from:to:subject:date:message-id;bh=z8q+5FNQ2D+ekReqHIySeHQMFD4GUVwe+J7J5zuCscjT==;b=0Q4YDuAAaypw6A+7Whm6b+ZC66NMM9k2XAEFIBvFRw==
+X-Sender-IP: 254.15.147.13
+X-Sender: thomboi@gmail.com
+X-Cross-Received-Date: Fri, 07 Jul 2023 19:25:45 
+From: thomboi@gmail.com
+To: hudsonhustles844@gmail.com
+Subject: Concerns Regarding Damage on Docks
+Date: Fri, 07 Jul 2023 19:25:45 
+
+--===============1699016418311118450==
+Content-Type: multipart/alternative; boundary="===============6148710940469378773=="
+MIME-Version: 1.0
+
+--===============6148710940469378773==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Emily Thomboi, and I recently had the pleasure of experiencing your jet ski recreation services on the Hudson River. I must say that the adventure was thrilling, and your team's professionalism was commendable. However, I am writing to express some concerns I encountered during my visit.
+
+While docking the jet ski at your facility, I noticed some significant damage to the docks. There were loose boards, rusty nails, and even a section of the railing that appeared to be unstable. This not only raised safety concerns but also took away from the overall enjoyment of the experience.
+
+As a company that specializes in jet ski recreations, I believe it's crucial to maintain the infrastructure at your facility in top-notch condition. I understand that wear and tear are inevitable, but the extent of the damage I observed was concerning.
+
+I kindly request that you address these issues promptly to ensure the safety of your customers and maintain the high standards that Hudson Hustles is known for. Can you please provide me with information on the timeline for repairs and improvements to the docks? Additionally, I would appreciate it if you could share any safety measures you are implementing to prevent accidents related to the dock's condition.
+
+Thank you for your attention to this matter. I believe that with your commitment to excellence, you will quickly resolve these concerns, making the jet ski experience even more enjoyable for future customers.
+
+I look forward to hearing from you soon.
+
+Sincerely,
+
+Emily Thomboi
+--===============6148710940469378773==--
+
+--===============1699016418311118450==--

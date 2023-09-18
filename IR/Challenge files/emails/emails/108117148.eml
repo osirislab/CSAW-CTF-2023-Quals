@@ -1,0 +1,106 @@
+Content-Type: multipart/mixed; boundary="===============1653648747065920956=="
+MIME-Version: 1.0
+Received: by e93f:456d:304f:79ea:0a9b:5792:4f47:2b3d with SMTP id o17-52884; Thu, 06 Jul 2023 04:35:02 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6552; cv=none; d=examplelawfirm.com; s=arc-20160816;b=Bcui1kXhdb0QsG/tHZMmKu5ugUeTKFcmS1bY6qaEUrnVt7QJYl3y2PntY9efimdm1Of9cL/V/R7f2lIa4QLdug==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=examplelawfirm.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=JgFiakuFLajcxTaPKWeUVeVr28i+4Q3+8O7T7L4p0q6s==;fh=Yl7u4hoU1PJwW4EqVsE33q4Reg7w8XxO9fThAUc7Nw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=examplelawfirm.com; s=7507; t=5614; x=3945;h=from:to:subject:date:message-id;bh=wsfWCQLch23x86IZYcRv3d0UpQRDhv5IJbrWe7jaBOGi==;b=WBULEnXkcZQKOxAyI7OH/oUzUGqjTRxlJN6nb7b18w==
+X-Sender-IP: 156.92.166.236
+X-Sender: hudsonhustles@examplelawfirm.com
+X-Cross-Received-Date: Thu, 06 Jul 2023 04:35:02 
+From: hudsonhustles@examplelawfirm.com
+To: hudsonhustles844@gmail.com
+Subject: Potential Legal Action and Warnings
+Date: Thu, 06 Jul 2023 04:35:02 
+
+--===============1653648747065920956==
+Content-Type: multipart/alternative; boundary="===============0239713680676372613=="
+MIME-Version: 1.0
+
+--===============0239713680676372613==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Mr. Hudson,
+
+We hope this message finds you well. We represent the law firm of Smith & Associates, specializing in matters related to corporate compliance and legal issues. Our firm has recently been made aware of certain concerns regarding your company, Hudson Hustles, which offers recreational Jet Ski services along the Hudson River.
+
+It has come to our attention that there may be potential legal disputes and complaints regarding the registration of Hudson Hustles. We have received information suggesting that there may be discrepancies related to the registration of your business, which could lead to legal consequences.
+
+At this time, we strongly urge you to take this matter seriously and seek legal counsel to address these concerns promptly. Ignoring these potential issues may result in legal actions that could harm your company's reputation and financial stability.
+
+To provide you with more detailed information, we have attached the following documents:
+
+1. **Attachment 1: Complaint Summary (PDF)** - This document outlines the specific complaints and concerns we have received regarding the registration of Hudson Hustles.
+
+2. **Attachment 2: Legal Warning (PDF)** - This document contains a formal legal warning and advice on the steps you should take to address these potential legal issues.
+
+Please review these attachments carefully and consider seeking legal representation to help you navigate this situation. Failure to respond or address these concerns in a timely manner may result in further legal actions.
+
+Should you have any questions or require further assistance, please do not hesitate to contact our law firm at the email address provided in this message.
+
+Sincerely,
+
+John Doenne
+Smith & Associates Law Firm
+Email: john.doe@examplelawfirm.com
+Phone: (555) 123-4567
+--===============0239713680676372613==--
+
+--===============1653648747065920956==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Complaint_Summary.pdf"
+
+JVBERi0xLjQKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgaHR0cDovL3d3
+dy5yZXBvcnRsYWIuY29tCjEgMCBvYmoKPDwKL0YxIDIgMCBSCj4+CmVuZG9iagoyIDAgb2JqCjw8
+Ci9CYXNlRm9udCAvSGVsdmV0aWNhIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9G
+MSAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRl
+bnRzIDcgMCBSIC9NZWRpYUJveCBbIDAgMCA2MTIgNzkyIF0gL1BhcmVudCA2IDAgUiAvUmVzb3Vy
+Y2VzIDw8Ci9Gb250IDEgMCBSIC9Qcm9jU2V0IFsgL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMg
+L0ltYWdlSSBdCj4+IC9Sb3RhdGUgMCAvVHJhbnMgPDwKCj4+IAogIC9UeXBlIC9QYWdlCj4+CmVu
+ZG9iago0IDAgb2JqCjw8Ci9QYWdlTW9kZSAvVXNlTm9uZSAvUGFnZXMgNiAwIFIgL1R5cGUgL0Nh
+dGFsb2cKPj4KZW5kb2JqCjUgMCBvYmoKPDwKL0F1dGhvciAoXChhbm9ueW1vdXNcKSkgL0NyZWF0
+aW9uRGF0ZSAoRDoyMDIzMDkwNDA0MzAxNiswMCcwMCcpIC9DcmVhdG9yIChcKHVuc3BlY2lmaWVk
+XCkpIC9LZXl3b3JkcyAoKSAvTW9kRGF0ZSAoRDoyMDIzMDkwNDA0MzAxNiswMCcwMCcpIC9Qcm9k
+dWNlciAoUmVwb3J0TGFiIFBERiBMaWJyYXJ5IC0gd3d3LnJlcG9ydGxhYi5jb20pIAogIC9TdWJq
+ZWN0IChcKHVuc3BlY2lmaWVkXCkpIC9UaXRsZSAoXChhbm9ueW1vdXNcKSkgL1RyYXBwZWQgL0Zh
+bHNlCj4+CmVuZG9iago2IDAgb2JqCjw8Ci9Db3VudCAxIC9LaWRzIFsgMyAwIFIgXSAvVHlwZSAv
+UGFnZXMKPj4KZW5kb2JqCjcgMCBvYmoKPDwKL0ZpbHRlciBbIC9BU0NJSTg1RGVjb2RlIC9GbGF0
+ZURlY29kZSBdIC9MZW5ndGggMTM5NQo+PgpzdHJlYW0KR2F0PSo/I1NJVyY6RjVVZlhMUjVTQmtQ
+XlMlYDFXJ1Elai9UbyY3K1I/ZjdKWTghc3RQXVFpdTJiUFNsLzMhdUUiOmBdZVs2JEgrXUIicEpw
+bUl1OT1cODcqOXR1K0pkOzJTREpuRTNKUDFHLTBjJEZJclJeRk8jXXItKFwsbj51Ym9WMGdGNy4z
+WHAnX0Mma1AwTFQ5YUIxQDJWXl9ARjE7PWlqWT9iOUtgQVouTT8nYFZUYG9DRT5yQGI6bjtZUzM+
+PEkzJ0NlYiNCYz9nOWE1OTQtcnFOPUwnMltpRCxET1YsNkwyVWdOO0A1cixfSU1EaC1KRmM/JHJJ
+TV01ayE1c1RSU1crKT0sSnFKcVUqallTRGwtdGo5ay90I3AzSVNkJDNmYyhXMF5gOipRJyJCS1o6
+O3FQOF05M2lBJF1AJmxZZildTGRZSjsoX2gtPzxaU0ghTkVQIjc9VEUnQUskNUUwak1ZV0NUMFBH
+OkxzL0NcdWMqPj8+T2RmUF1yKWozSDI7LlBFTzE0O1JTOE5NKClfTCwzXTphNmVRMjQycTw/IU5F
+RVYsR1s1XC1MTl1XQVluYlA6JEJfa2AzQCwjPDAqIV1QWSMiRiJEQjViUm9DazIjMEMyQVpKK0Vq
+bmRNaGU2TT9EcFpaaWstMj9NNixpNkonWUkmSF1dYUo7aVQpYDBBWk0qUlBFaExmUlk8XiU8OFY8
+dURvVWdbaUdbZTNMQDo+KlRrYTZMPSJLTzFTTUVVOTE3KVloRi1aYjVKQmkjJCsnNWw5NGRDQVVS
+XVM2XCJcUkFrNyVlajEuRzByQzgkKEtBbzw6b04iYFtGSChNcDctYz1YLyU/OjFpYl5fYVVLJjQ6
+az1xdUllN1oqZk09JCUmLV9LJFUjVV8nQiVJcWRrWzNmOnJaZkUlV3JtLU5jTDhDOlBoMDRla2Bh
+YGtmWzFAPG1EQiliL0JKLTU8TmJlK25SJWIiczVRYCQ4ZlkpRkZdISt0JyVoSFtLbVglMFExPk1x
+R1dbPGlSXWo9aVImJnEkQjgzUEQ7ViRvU0xHK2I8Nm5YMjdtdVVMTT8zYko+MEkmdGxLKzFtc2hx
+RDAzLU81NXUicGQxJyRGKElwODdRcD1pPDxlc0liRUBYYD91ayU3XCVWNjdGVVtVckRdakEqZEQv
+QCc9P1ksRT9MW3NXWWxPQUtlYWcmZDkxOVMiUTxWZT9yTChlMFFqLC8wVDVPJD01aV5iZCNQV0k6
+VSwtbi9CWmkkPUxGTU5xU10pLVVKP2pJJzxWKWo2JSoiJzE4KkdhNFlgckdva0BdVDRvUkw1OUo8
+O0Zkam5UZGFFZnUmVG1cOzQ0MVhwVjxhbnVGSypANmRbNE4qaSxZNWYuRFg2JEFcNzZFQk5DSj4+
+Xj5qMl8yLEJAZmRhakpuNU8wcyNeJSdYVGJTNHMjPSlRRW84M2FbKFM7JWklPmRzXUtwVTc8UiZU
+JE47YyVUZSQ7UTwqWiVCKys6Wl1SPStxNj1uUVZvKzIlN2NKKEhbVlNAUHBaXWhLNHIsV29JSChg
+KEA8RHVfWFtQSlA0bFUxLiksUFwjcTl0bl5ASz1hVGBcY1RgWUUsITxJV1RSaW5jLUUsTjQ+ZG81
+UioiVSZuPy5eKj9qcUFyITtbQWhFbkFyZnFiNDhqaloqUlEvTl05KD4vZUhLQidHVlA7SC84NnQ0
+QSVoQi8+IykpaUtgODQmdSs+XyNVc1suMF5VJ0hKTjdFUk40P188OFpDLF5pXjBBP1NSb05PbTBh
+MT9PVEBRZUVFVz9UOm1gLnJVQGBjISdIN25KZj1mOmVpdDk0WjlATFRIcCU0Wk1iUFFvS1RQKVpZ
+Zn4+ZW5kc3RyZWFtCmVuZG9iagp4cmVmCjAgOAowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAw
+NzMgMDAwMDAgbiAKMDAwMDAwMDEwNCAwMDAwMCBuIAowMDAwMDAwMjExIDAwMDAwIG4gCjAwMDAw
+MDA0MDQgMDAwMDAgbiAKMDAwMDAwMDQ3MiAwMDAwMCBuIAowMDAwMDAwNzU1IDAwMDAwIG4gCjAw
+MDAwMDA4MTQgMDAwMDAgbiAKdHJhaWxlcgo8PAovSUQgCls8ZWJlY2E3YWYxOGU2ODhlMGUxNjBj
+ZTU3MTQxZGY2ZDM+PGViZWNhN2FmMThlNjg4ZTBlMTYwY2U1NzE0MWRmNmQzPl0KJSBSZXBvcnRM
+YWIgZ2VuZXJhdGVkIFBERiBkb2N1bWVudCAtLSBkaWdlc3QgKGh0dHA6Ly93d3cucmVwb3J0bGFi
+LmNvbSkKCi9JbmZvIDUgMCBSCi9Sb290IDQgMCBSCi9TaXplIDgKPj4Kc3RhcnR4cmVmCjIzMDAK
+JSVFT0YK
+
+--===============1653648747065920956==--

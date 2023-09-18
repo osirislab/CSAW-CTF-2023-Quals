@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============3932701806299301260=="
+MIME-Version: 1.0
+Received: by cd72:caf8:9e4a:a621:23d6:b020:8824:3350 with SMTP id o17-77871; Sun, 09 Jul 2023 06:49:18 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=8707; cv=none; d=email.com; s=arc-20160816;b=v1z+0kliK3QlnAlYfBImA3lk+JmmkPowwc9XRkF2Gb2kaQOG2fXLWhW+oHpl9A2rD7LT/3Z0yT55wFYIJPHkDA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=hXaNe7v/3XwMiYa9qAdjzhSwXFsHtEEmHRrnWGROF/uo==;fh=tQrWg0ZUeiD9pDY5gdAzhuUjZZPiPqbXQyIgoRxKoA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=4397; t=3172; x=9931;h=from:to:subject:date:message-id;bh=LXNlRCiPwetWXGJQGpv0H5NSQFrGmTFZWPZ9VAChnq7H==;b=AyDY4Si5I9CTFVOfDxxuW0SisXh4w195VPV/dApOHg==
+X-Sender-IP: 25.76.226.233
+X-Sender: From: johndoe@email.com
+X-Cross-Received-Date: Sun, 09 Jul 2023 06:49:18 
+From: From: johndoe@email.com
+To: hudsonhustles844@gmail.com
+Subject: Concerns Regarding Excessive Ads
+Date: Sun, 09 Jul 2023 06:49:18 
+
+--===============3932701806299301260==
+Content-Type: multipart/alternative; boundary="===============0478376593336843768=="
+MIME-Version: 1.0
+
+--===============0478376593336843768==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello Hudson Hustles Team,
+
+I hope this email finds you well. I am writing to express some concerns I have regarding the recent increase in advertisements associated with your jet ski recreation services around the Hudson River. While I have always enjoyed your services and the thrilling experiences you provide, I have noticed a significant uptick in the number of ads and promotional material, both online and offline.
+
+I understand the importance of marketing to promote your business, but the frequency and intrusiveness of these advertisements have started to detract from the overall enjoyment of your services. It seems like I can't browse a website or go for a walk along the river without being bombarded by your ads. It's become quite overwhelming.
+
+I kindly request that you consider reducing the number and intrusiveness of your advertisements to enhance the overall experience for your customers. Striking a balance between promotion and an enjoyable customer experience is crucial, and I believe it will benefit both your business and your patrons.
+
+I appreciate your attention to this matter and look forward to seeing positive changes in the future. Thank you for providing thrilling jet ski experiences on the Hudson River, and I hope we can continue to enjoy them with fewer interruptions from ads.
+
+Sincerely,
+John Doe
+--===============0478376593336843768==--
+
+--===============3932701806299301260==--

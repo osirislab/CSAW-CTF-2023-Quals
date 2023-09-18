@@ -1,0 +1,47 @@
+Content-Type: multipart/mixed; boundary="===============2462956522346498316=="
+MIME-Version: 1.0
+Received: by 4fcd:d301:c8a8:7b14:d65d:990d:f9ec:8022 with SMTP id o17-52391; Sun, 21 Jul 2023 23:19:35  
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=1597; cv=none; d=koolkidsclub.com; s=arc-20160816;b=h780dgZI5jOTIHDoMVqeofjOOz7fiUa5K3hM5GF+HKljJb05gy9JdJYib0jkjKurwny/rs+DPCIPc2Gg3Pexfg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=koolkidsclub.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=POpUQyd3pYEN9A/o+Ognx5D8rdF4prdSim1vtMQ3ZlDq==;fh=J/ulnBq8545801uKroGkxYAWYrulCW40pLYkwThmog====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=koolkidsclub.com; s=6228; t=3900; x=5601;h=from:to:subject:date:message-id;bh=9oBS+hegwPW4A4GP3c38fa/XKud6y3dAu5ICvCzdW4al==;b=8fz5n+nIvCxmqkpeHX+YwDqWSaKFdeaJ+Rd5cXz0dg==
+X-Sender-IP: 94.4.190.47
+X-Sender: contact@koolkidsclub.com
+X-Cross-Received-Date: Sun, 21 Jul 2023 23:19:35 
+From: contact@koolkidsclub.com
+To: hudsonhustles844@gmail.com
+Subject: Exciting News: Join Kool Kids Club Today!
+Date: Sun, 21 Jul 2023 23:19:35 
+
+--===============2462956522346498316==
+Content-Type: multipart/alternative; boundary="===============0001546033088745177=="
+MIME-Version: 1.0
+
+--===============0001546033088745177==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kool Kids Club</title>
+</head>
+<body>
+    <h1>Welcome to Kool Kids Club!</h1>
+    <p>Are you looking for a fun and educational experience for your children?</p>
+    <p>Look no further! Kool Kids Club is here to provide your kids with an amazing journey of learning, creativity, and adventure.</p>
+    <p>Our services include:</p>
+    <ul>
+        <li>Interactive Learning Workshops</li>
+        <li>Creative Arts and Crafts</li>
+        <li>Outdoor Adventures</li>
+        <li>Games and Challenges</li>
+    </ul>
+    <p>Join the Kool Kids Club today and watch your children grow, learn, and have a blast!</p>
+    <p>For more information, visit our website <a href="https://infected-phishing.csaw.io/">www.koolkidsclub.com</a></p>
+</body>
+</html>
+--===============0001546033088745177==--
+
+--===============2462956522346498316==--

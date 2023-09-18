@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============1211128330199445304=="
+MIME-Version: 1.0
+Received: by 2dde:e9cd:b2a8:387c:8322:4544:3c2c:d8c1 with SMTP id o17-44433; Sat, 26 Aug 2023 00:54:40 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=43; cv=none; d=gmail.com; s=arc-20160816;b=Acmng9w9hXYfitVmBxdYTEhsiOqUm3hPep6Ccq64ZvzTu1pN1Y3j/9uOycoJHZENZQhjx/ECnZ+cQu+zfwm1sg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=1HXEF95kGKEaVcv6WMgE0y5bfVneTbKkgX5TVk1H6b0U==;fh=kCsEI5jTUEGM4nwrIGBTkoUrZuHLutKrqH/VrR2Ihw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=9883; t=3594; x=6180;h=from:to:subject:date:message-id;bh=LX9BPq/Qhh5uxvi/aTJFMwHLmSb4saRuXAHXt8kqOxS8==;b=XbYLvCkMljnFpaeZU5zuNyoS05Z4Qq8zANAtNQmtKQ==
+X-Sender-IP: 182.79.147.13
+X-Sender: john.smith@gmail.com
+X-Cross-Received-Date: Sat, 26 Aug 2023 00:54:40 
+From: john.smith@gmail.com
+To: hudsonhustles844@gmail.com
+Subject: Car in Jet Skis
+Date: Sat, 26 Aug 2023 00:54:40 
+
+--===============1211128330199445304==
+Content-Type: multipart/alternative; boundary="===============8194847454394415982=="
+MIME-Version: 1.0
+
+--===============8194847454394415982==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello Hudson Hustles,
+
+I'm interested in your jet ski services on the Hudson River. Can I store my car on a jet ski while riding? Thanks.
+If not, Pleae make one, but let me patent it cause I came up with it first. 
+
+Best regards,
+John Smith
+--===============8194847454394415982==--
+
+--===============1211128330199445304==--

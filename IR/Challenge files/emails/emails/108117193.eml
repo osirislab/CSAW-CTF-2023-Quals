@@ -1,0 +1,55 @@
+Content-Type: multipart/mixed; boundary="===============0951503741360608181=="
+MIME-Version: 1.0
+Received: by 32db:93ba:1a94:14d2:2fac:99e9:fbf4:5415 with SMTP id o17-16038; Mon, 21 Aug 2023 11:37:33 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=8678; cv=none; d=hotmail.com; s=arc-20160816;b=07XjmwBGo/oYXJjaxsh9C3GVpKLIIZcOB11AKvv6O76mm1ncy1gquJsJy8bW8pJDCmQpBjEFKzsjheNaPuf2hQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=/jfIWxabYrYVZoPetybeQqUgvD5CwkuEVikU4AgOQeQL==;fh=EutfKCdtnWPA26OFRXgWXejFkohttBRJQLnibhHFxA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com; s=4301; t=1962; x=335;h=from:to:subject:date:message-id;bh=uFQUM/YLD3P3YZxg7my6oTSVrjl1eWHLMJaltPssN2Od==;b=s7ifrOAIqIvcWuJx+pZ8g90RG3kgWg+3G+9bQTdd5A==
+X-Sender-IP: 31.26.50.190
+X-Sender: EmailyDev@hotmail.com
+X-Cross-Received-Date: Mon, 21 Aug 2023 11:37:33 
+From: EmailyDev@hotmail.com
+To: hudsonhustles844@gmail.com
+Subject: Request to Turn the Hudson River Shallow
+Date: Mon, 21 Aug 2023 11:37:33 
+
+--===============0951503741360608181==
+Content-Type: multipart/alternative; boundary="===============6915729158995212947=="
+MIME-Version: 1.0
+
+--===============6915729158995212947==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBIdWRzb24gSHVzdGxlcyBUZWFtLAoKSSBob3BlIHRoaXMgZW1haWwgZmluZHMgeW91IHdl
+bGwuIE15IG5hbWUgaXMgRW1pbHkgRGF2aWRzb24sIGFuZCBJIHJlY2VudGx5IGhhZCB0aGUgb3Bw
+b3J0dW5pdHkgdG8gZXhwZXJpZW5jZSB5b3VyIHRocmlsbGluZyBqZXQgc2tpIGFkdmVudHVyZXMg
+b24gdGhlIEh1ZHNvbiBSaXZlci4gSSBtdXN0IHNheSwgaXQgd2FzIGFuIGV4aGlsYXJhdGluZyBy
+aWRlLCBhbmQgeW91ciB0ZWFtIG1hZGUgc3VyZSB3ZSBoYWQgYW4gYW1hemluZyB0aW1lLgoKSG93
+ZXZlciwgZHVyaW5nIG91ciBqZXQgc2tpaW5nIGFkdmVudHVyZSwgSSBjb3VsZG4ndCBoZWxwIGJ1
+dCB0aGluayBhYm91dCBhbiBpZGVhIHRoYXQgY291bGQgcmV2b2x1dGlvbml6ZSB0aGUgZXhwZXJp
+ZW5jZSBmb3IgYWxsIHlvdXIgY3VzdG9tZXJzLiBXaGF0IGlmIHdlIGNvdWxkIHR1cm4gdGhlIEh1
+ZHNvbiBSaXZlciBzaGFsbG93PyBZZXMsIHlvdSByZWFkIHRoYXQgcmlnaHQg4oCTIEknbSBzdWdn
+ZXN0aW5nIHdlIHNvbWVob3cgYWx0ZXIgdGhlIGRlcHRoIG9mIHRoZSByaXZlciB0byBtYWtlIGl0
+IHNoYWxsb3dlciEKCkkgYmVsaWV2ZSB0aGF0IGJ5IG1ha2luZyB0aGUgSHVkc29uIFJpdmVyIHNo
+YWxsb3dlciwgd2UgY291bGQgb3BlbiB1cCBlbnRpcmVseSBuZXcgcG9zc2liaWxpdGllcyBmb3Ig
+amV0IHNraWluZy4gSW1hZ2luZSBqZXQgc2tpaW5nIG9uIGEgcml2ZXIgd2hlcmUgdGhlIHdhdGVy
+IGJhcmVseSBjb3ZlcnMgdGhlIGpldCBza2lzJyBodWxscy4gSXQgd291bGQgYmUgbGlrZSBnbGlk
+aW5nIG9uIGEgZ2lhbnQgd2F0ZXIgc2xpZGUhIFdlIGNvdWxkIGV2ZW4gaW5zdGFsbCB3YXRlciBz
+bGlkZXMgYWxvbmcgdGhlIHJvdXRlIGZvciBhZGRlZCBleGNpdGVtZW50LgoKSSB1bmRlcnN0YW5k
+IHRoYXQgdGhpcyBpZGVhIG1heSBzb3VuZCB1bmNvbnZlbnRpb25hbCwgYnV0IEkgYmVsaWV2ZSBp
+dCBjb3VsZCBiZSBhIGdhbWUtY2hhbmdlciBmb3IgSHVkc29uIEh1c3RsZXMuIFdpdGggdGhlIHJp
+Z2h0IGVuZ2luZWVyaW5nIGFuZCBhIHRvdWNoIG9mIG1hZ2ljLCB3ZSBjb3VsZCBtYWtlIHRoaXMg
+aGFwcGVuLiBJIHVyZ2UgeW91IHRvIGNvbnNpZGVyIG15IHByb3Bvc2FsIGFuZCBleHBsb3JlIHRo
+ZSBwb3NzaWJpbGl0aWVzIG9mIGNyZWF0aW5nIHRoZSB3b3JsZCdzIGZpcnN0IHNoYWxsb3cgcml2
+ZXIgZXhjbHVzaXZlbHkgZm9yIGpldCBza2lpbmcuCgpJIGxvb2sgZm9yd2FyZCB0byB5b3VyIHJl
+c3BvbnNlIGFuZCBob3BlIHRoYXQgeW91IHdpbGwgdGFrZSBteSBzdWdnZXN0aW9uIHNlcmlvdXNs
+eS4gVG9nZXRoZXIsIHdlIGNhbiBtYWtlIGpldCBza2lpbmcgb24gdGhlIEh1ZHNvbiBSaXZlciBh
+biB1bmZvcmdldHRhYmxlIGFuZCB1bmlxdWVseSBzaGFsbG93IGV4cGVyaWVuY2UuCgpUaGFuayB5
+b3UgZm9yIHlvdXIgdGltZSBhbmQgY29uc2lkZXJhdGlvbi4KClNpbmNlcmVseSwKRW1pbHkgRGF2
+aWRzb24=
+
+--===============6915729158995212947==--
+
+--===============0951503741360608181==--

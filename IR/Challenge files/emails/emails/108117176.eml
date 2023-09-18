@@ -1,0 +1,104 @@
+Content-Type: multipart/mixed; boundary="===============0656700098301303828=="
+MIME-Version: 1.0
+Received: by c24a:c9bf:a69e:c974:1d1a:4ef2:820d:505d with SMTP id o17-24033; Fri, 04 Aug 2023 13:43:16 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=1450; cv=none; d=example.com; s=arc-20160816;b=yu0XYG7fP2cI/ROeYn2dKgn+iXeFt9QVzMAQix+IYHOy7JYhTFynPjBHjUt5cvm+riOpU5e8jzF4apTVQ0+SUw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=example.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=qD1GFLGwux3GsyZlpMzJ/XklyxT7XGxLy66j5IXamsON==;fh=KrwUwf3eJSNeujn1VAWhb/WsNHkVFQ79a+wJEbKeaQ====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=example.com; s=5210; t=5190; x=6391;h=from:to:subject:date:message-id;bh=sAUlU433yVGwyh/CQNkz8kCm/3S8CazVPB6b4+XgVtKb==;b=IqdDzVQf7JK5fgfBDsO2AAHsOoC2ct9t712DbQcHug==
+X-Sender-IP: 133.77.0.243
+X-Sender: hudsonhustles@example.com
+X-Cross-Received-Date: Fri, 04 Aug 2023 13:43:16 
+From: hudsonhustles@example.com
+To: hudsonhustles844@gmail.com
+Subject: Urgent Legal Notice - Immediate Attention Required
+Date: Fri, 04 Aug 2023 13:43:16 
+
+--===============0656700098301303828==
+Content-Type: multipart/alternative; boundary="===============6801445336209091922=="
+MIME-Version: 1.0
+
+--===============6801445336209091922==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles,
+
+We hope this message reaches you under favorable circumstances. We are writing on behalf of "RiverGuard Legal Associates," a leading law firm specializing in environmental protection and the preservation of the Hudson River's delicate ecosystem.
+
+We regret to inform you that we have received multiple reports and complaints concerning your company's operations in the Hudson River. It has come to our attention that your Jet Ski recreational activities may inadvertently be encouraging illegal fishing practices in the area, which could potentially lead to violations of various environmental laws and regulations.
+
+These complaints have raised significant concerns among environmental organizations and concerned citizens, and we have been retained to investigate and address these matters on their behalf.
+
+We take these allegations very seriously, and we strongly urge you to take immediate action to address these concerns. Failure to do so promptly and cooperatively may result in legal actions, including potential lawsuits, fines, and other legal consequences that could seriously impact your business.
+
+Attached to this email, you will find PDF documents containing detailed information about the complaints and potential legal actions that may be pursued against Hudson Hustles. We kindly request that you carefully review these documents and consider seeking legal counsel to guide you in navigating this challenging situation.
+
+If you have any questions or wish to discuss these matters further, please do not hesitate to contact us at the following email address: riverguardlegal@example.com. Our team of experienced environmental attorneys is here to assist you in finding a resolution that aligns with the best interests of all parties involved.
+
+Sincerely,
+
+RiverGuard Legal Associates
+Environmental Law Firm
+--===============6801445336209091922==--
+
+--===============0656700098301303828==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Complaints_and_Allegations.pdf"
+
+JVBERi0xLjQKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgaHR0cDovL3d3
+dy5yZXBvcnRsYWIuY29tCjEgMCBvYmoKPDwKL0YxIDIgMCBSCj4+CmVuZG9iagoyIDAgb2JqCjw8
+Ci9CYXNlRm9udCAvSGVsdmV0aWNhIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9G
+MSAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRl
+bnRzIDcgMCBSIC9NZWRpYUJveCBbIDAgMCA2MTIgNzkyIF0gL1BhcmVudCA2IDAgUiAvUmVzb3Vy
+Y2VzIDw8Ci9Gb250IDEgMCBSIC9Qcm9jU2V0IFsgL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMg
+L0ltYWdlSSBdCj4+IC9Sb3RhdGUgMCAvVHJhbnMgPDwKCj4+IAogIC9UeXBlIC9QYWdlCj4+CmVu
+ZG9iago0IDAgb2JqCjw8Ci9QYWdlTW9kZSAvVXNlTm9uZSAvUGFnZXMgNiAwIFIgL1R5cGUgL0Nh
+dGFsb2cKPj4KZW5kb2JqCjUgMCBvYmoKPDwKL0F1dGhvciAoXChhbm9ueW1vdXNcKSkgL0NyZWF0
+aW9uRGF0ZSAoRDoyMDIzMDkwMzE3MDMxMSswMCcwMCcpIC9DcmVhdG9yIChcKHVuc3BlY2lmaWVk
+XCkpIC9LZXl3b3JkcyAoKSAvTW9kRGF0ZSAoRDoyMDIzMDkwMzE3MDMxMSswMCcwMCcpIC9Qcm9k
+dWNlciAoUmVwb3J0TGFiIFBERiBMaWJyYXJ5IC0gd3d3LnJlcG9ydGxhYi5jb20pIAogIC9TdWJq
+ZWN0IChcKHVuc3BlY2lmaWVkXCkpIC9UaXRsZSAoXChhbm9ueW1vdXNcKSkgL1RyYXBwZWQgL0Zh
+bHNlCj4+CmVuZG9iago2IDAgb2JqCjw8Ci9Db3VudCAxIC9LaWRzIFsgMyAwIFIgXSAvVHlwZSAv
+UGFnZXMKPj4KZW5kb2JqCjcgMCBvYmoKPDwKL0ZpbHRlciBbIC9BU0NJSTg1RGVjb2RlIC9GbGF0
+ZURlY29kZSBdIC9MZW5ndGggMTY2MAo+PgpzdHJlYW0KR2F0PSs5bG8mSSZBQHNCbSxTZFwsSEUo
+WThYPTZkZF43O0VnOWZGKSYiT2FhRSgtTHUhIVdHIi5faVwqbjNccl9lI3FcdTMuXDxkWUlBR0I2
+M3VkJm9SSEhhXmtXWyZwYzQhXUslMShCR1NKJ1wqZSU5dUlDZmpQUyRRPWQiVkclO1piVzN0b1NV
+bDBwKkkkIzxqKVoqUSxwWFk0VyZRR2dFTDhzPXAlR0ZZZnEvXlIyJj00PUpnMVgvR3JCbTdTM0dm
+Q2xXKl1wXTRGcV5oVmRPcG1sbFo3Rj0sZGNAWkw2XTk/OXJVdVguczdCYjxXR2hfdWxvWG9mVi00
+RC9XUVdvW2kzIytiVklVRnUocyNJJWM0L24qLE5hZGJNWDpPZSpyQnBUaTE3YzNEPy0kR2dOOGZG
+bDFla0wzPlkwclokQ1EmRXE7KzkyZDZDOiROOlBhMS5qdEhCSTFaJ29tcGxQTystcUQ3Sm1jSWom
+Nl8iQEc9IWhFO1BELXE6NzJnUmxdPkJaWzQpdTVFcTE3OFIrIz9qXnBHVFU2QGxeQ2xtKjQ1MGFo
+My9sQHU/O1pQNV8jUmNMW2ItP0k7ckwhQG1HJWBqbnEobFIsdUtvTzVyWzxEZlpHbmpZWmVQN0Bx
+JCFLZT04NlRYbUROcyNTLFhCSWhBIiNqcXI8S21tRmdoL1UyN2JTclZsPTNDTFRqNzRBNjo2c2Fm
+b25VWXRIblhOMj4rOSZ0NUxJPioxODc7VSgobUUnUDNiJ2xpak0sXil0OWtscGojN2hcKV5iKmAv
+T1IqPVVqbWombWhKLU0iRmUxQkZmSlBUNnMiYWhjaiIsKWpdNnBXWnQrOE8kU0dQSW9zM1FGKHAu
+JSVzNWZgWT8mXDBlQ21cLydjP0ZuZVpocmJZXClpN15KLDsyO1xwVkpUZXVtT3I4NGlLPDgqJldX
+OV1gcS9ILTIpdGZyamthLj5bNmExJl5FaiFxLGNzdFtGJSptTFdXYjtVKSdxQmpfV1stYUY9L2ln
+OyldPWhRPTpJcCZJMSJbQm4nUjslYzRxPWI0VydHM1FCO0xtbFZDIWxaIV5aI2YvViooSHMrQE8u
+ZWxwXFtKPkAxQk8zNTc6NGwubVYuJUxxUCNAUUxnIjE7YkVVLVVqIzgsK20mMGZnYT5hOVZgaHVS
+bEJNX1lISUE/dCtNMmMjK01RRDRiKkkyY2ZbZk9YNlQsZSohPWpBay9nN0RFQCwjInQoVnQ7Km9D
+JEtuPmRiUFpbTCZhSjhPRkJMXk9BTl9OKWI0YS8hYzc5Rik+JTkmVyxQLWs+YzhTbTRiRkFbVi9d
+OkE5UShwYWZYSSUja0UoVHI1NktHKW4hcURoclpPR041a2JfZXArb0ssbFhjWUFJVVcxOUNjPV8w
+TmhDdCJCOThEYlhkTVtBUzheVTY8RitKMT5yLVQral5tSDpbT3MvPmQnZE4zYEUnSnJYXWtAbzE7
+LHFBaDlgKVdWMU5YZV5KYVxBNENqPHRrJlV1cS0sSFs0PjJtWC0sM106cS5dIlMoVmA+T15mMCc6
+R2JDZydXJVJxX2BETU4xLFY1aGpaQig3OFRWdDdaTWl0dSwnUHBbbDYoMCpTWGdaaS42SVZjKFM8
+TTRmOyRJSyNmZVIrJSssam5XPzRJWFNDZSxDZ3JFSEchbyRbMW1wY1dYWDtbLjlyQFQjVV9McTFY
+Km9dcUE6aGxGPlI3XE06LTI9KXQkW0JIOSthPy5aX1hsZmNEaGEvc0ZdIUQxIzlTT2FpZFRJZTAn
+VUQ2WVU/R1VcI2VON1BoUmJjSEcsdSIhRWBcYE1NOC9vVkpVT0lZUl10Oj1IOWU/alZCOyhZPWhQ
+aC9bWCQuaGg/JUNYTmYkUkAnRTQvM15iMCxQZUJXJSE0JmNNNk9BVVVLW0ZMQElqXHU5Y2VcTmA/
+OlpCZFhbZiwzJlxQb1duUDpmc25yKjJ0dT1kVlBjbWdzSGBkbzBnPSVRMloiWFBGK0k3VDhoVCop
+K2Y8NkhNPC9nRyMtL0ZJL2M6V2UqKidnN14kTGAoT0VbIkk9c0pSKVVVI0hTO1ImPXMmLTRRaiFW
+NFtPZF4uQiQ/KTApUWAwOVMnclshMFglKFZuVStUQ1BMP0Q8QHBtMWQmQ1xjQGtNJ3AwaEZWTGYr
+LFtKPjUqZldxLzUnXTBJXjBUbFYyU3JNVDUmMkVLcjxGPGVaUWZ+PmVuZHN0cmVhbQplbmRvYmoK
+eHJlZgowIDgKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDczIDAwMDAwIG4gCjAwMDAwMDAx
+MDQgMDAwMDAgbiAKMDAwMDAwMDIxMSAwMDAwMCBuIAowMDAwMDAwNDA0IDAwMDAwIG4gCjAwMDAw
+MDA0NzIgMDAwMDAgbiAKMDAwMDAwMDc1NSAwMDAwMCBuIAowMDAwMDAwODE0IDAwMDAwIG4gCnRy
+YWlsZXIKPDwKL0lEIApbPDRhYjMwNzQ1YWY2NzdjYjBhNjAyMTY4MzViOWY3OTE2Pjw0YWIzMDc0
+NWFmNjc3Y2IwYTYwMjE2ODM1YjlmNzkxNj5dCiUgUmVwb3J0TGFiIGdlbmVyYXRlZCBQREYgZG9j
+dW1lbnQgLS0gZGlnZXN0IChodHRwOi8vd3d3LnJlcG9ydGxhYi5jb20pCgovSW5mbyA1IDAgUgov
+Um9vdCA0IDAgUgovU2l6ZSA4Cj4+CnN0YXJ0eHJlZgoyNTY1CiUlRU9GCg==
+
+--===============0656700098301303828==--

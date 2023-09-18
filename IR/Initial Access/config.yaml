@@ -1,0 +1,20 @@
+intro: "We have speculated that the emails was the vector. Please analyze them and let us know what you find in them"
+outro: "Nice Job! Thanks for finding the initial vector for us"
+questions:
+  1:
+      question: "What is the subject line for suspicious email?"
+      answer:
+        - "Monthly Finance Report - July"
+  2:
+      question: "What is the SHA1 hash of the attachment?"
+      answer:
+        - "7b0b63e902504bfd7976e3911e054148f335a2e9"
+  3:
+      question: "What is the CVE ID for the exploit used by this attachment?"
+      answer:
+        - "CVE-2022-30190"
+  4:
+      question: "What is the name of the file being downloaded by this exploit?"
+      answer:
+        - "coms.exe"
+flag: "csawctf{ph15h1n6_15_7h3_m057_c0mm0n_v3c70r}"

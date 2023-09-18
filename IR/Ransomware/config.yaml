@@ -1,0 +1,40 @@
+intro: "We need to understand this ransomware. Please answer these questions for us"
+outro: "Nice Job! Thanks for explaining the ransomware to us."
+questions:
+  1:
+      question: "What file extensions are not encrypted by the ransomware? Please give the answer as a comma-separated array"
+      answer:
+        - ".exe"
+        - ".dll"
+        - ".lnk"
+        - ".sys"
+        - ".msi"
+        - ".exten"
+        - ".ost"
+        - ".pst"
+  2:
+      question: "What folders are not encrypted by the ransomware? Please give the answer as a comma-separated array"
+      answer:
+        - "tmp"
+        - "winnt"
+        - "temp"
+        - "thumb"
+        - "$recycle.bin"
+        - "system volume information"
+        - "boot"
+        - "windows"
+        - "downloads"
+  3:
+      question: "This ransomware appears to be similar to another type of ransomware out there. Can you tell me which one?"
+      answer:
+        - "conti"
+  4:
+      question: "What encryption algorithms are used by the ransomware? Please give the answer as a comma-separated array"
+      answer:
+        - "rsa"
+        - "aes-cbc"
+  5:
+      question: "Is it realistically possible to recover the files using only the source code? Please answer as either yes or no"
+      answer:
+        - "no"
+flag: "csawctf{c0n71_r4n50mw4r3_1n_c#}"

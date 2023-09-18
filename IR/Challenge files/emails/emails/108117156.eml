@@ -1,0 +1,47 @@
+Content-Type: multipart/mixed; boundary="===============4202668545302823276=="
+MIME-Version: 1.0
+Received: by 87cb:226b:797f:ae26:df8f:0c25:9e4a:d6c2 with SMTP id o17-88920; Tue, 11 Jul 2023 23:49:10 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=2320; cv=none; d=email.com; s=arc-20160816;b=HEkFMfdsK0pg6hwN9lZMCoBHOBJl3hM9t9wxZbyI/YW7rg38Q192PZyFmAtnVJSLqpdGgkMjO3ZqmqcMNDV4AA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=a9drm4D41kjTXUFZVPumu2DjbdjLfkxnHPMM9qQluGuW==;fh=3wjzYlGA5gUYRkcYFBiJz4bKBpEiheUOAkW85/JooA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=5736; t=4311; x=7326;h=from:to:subject:date:message-id;bh=nanm4XZCOKlub13qUN4yM29RGJcny1rZiJifIfUwmfiX==;b=CT3LCSc32xBN6NsaMuXImdLKdyfvyzGZp5qMBD0HyA==
+X-Sender-IP: 201.17.138.224
+X-Sender: Sender: john.doe@email.com
+X-Cross-Received-Date: Tue, 11 Jul 2023 23:49:10 
+From: Sender: john.doe@email.com
+To: hudsonhustles844@gmail.com
+Subject: Subject: Inquiry about Hudson Hustles Services
+Date: Tue, 11 Jul 2023 23:49:10 
+
+--===============4202668545302823276==
+Content-Type: multipart/alternative; boundary="===============7258692079987153210=="
+MIME-Version: 1.0
+
+--===============7258692079987153210==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello Hudson Hustles Team,
+
+I hope this email finds you well. My name is John Doe, and I recently heard about your company's exciting Jet Ski adventures on the Hudson River. I have a few questions and concerns that I'd like to address:
+
+1. Where is your primary location for launching Jet Ski tours on the Hudson River? I would like to know the exact address and any landmarks nearby.
+
+2. Can you provide some details about the different Jet Ski packages you offer, including pricing and the duration of the tours?
+
+3. What safety measures and equipment do you have in place to ensure a safe and enjoyable experience for your customers?
+
+4. Are there any age or experience requirements for participants? I'm planning to bring my family along, and it would be helpful to know if there are any restrictions.
+
+5. Do you have any upcoming special promotions or discounts for large groups or repeat customers?
+
+I would appreciate it if you could provide me with these details at your earliest convenience. I'm very interested in booking a Jet Ski adventure with Hudson Hustles, but I want to make sure I have all the necessary information.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Best regards,
+John Doe
+--===============7258692079987153210==--
+
+--===============4202668545302823276==--

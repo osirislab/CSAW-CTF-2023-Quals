@@ -1,0 +1,35 @@
+Content-Type: multipart/mixed; boundary="===============4564549560751049518=="
+MIME-Version: 1.0
+Received: by 3621:359e:8e4b:93fa:fa66:b9e7:810c:f1ba with SMTP id o17-41314; Tue, 25 Jul 2023 08:53:08 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6037; cv=none; d=femail.com; s=arc-20160816;b=J1J5FRJNem+i4OKtB7N799uAGlz6J4EvS05juDsda+WmO+EtKj0WIxnA5Y/sgy0aRNGfuGL56onr4MuvjyzfYw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=femail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=5I2l+qdOVCr/WCVGVVhonv5GVMMgJ1EnHjPcHIdQ+DNV==;fh=Uffg8VXPdL+AKmEcie98KEYdQddMff1B3LJiN53FWw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=femail.com; s=6297; t=2829; x=221;h=from:to:subject:date:message-id;bh=cEDgztyD60GZ8YtM50Vuze/atG8OrXWBJJf/H+NSoNdv==;b=DiCfxzXy+yklpwUmO15IVP0kmhlFZxlfTIJZ80/Lbw==
+X-Sender-IP: 50.45.42.137
+X-Sender: sarah@femail.com
+X-Cross-Received-Date: Tue, 25 Jul 2023 08:53:08 
+From: sarah@femail.com
+To: hudsonhustles844@gmail.com
+Subject: Question about Dog Riding on Jet Skis
+Date: Tue, 25 Jul 2023 08:53:08 
+
+--===============4564549560751049518==
+Content-Type: multipart/alternative; boundary="===============4248075773798189610=="
+MIME-Version: 1.0
+
+--===============4248075773798189610==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Sarah Johnson, and I am writing to inquire about your jet ski services on the Hudson River. I've heard great things about your company's expertise in jet ski recreation, and I'm interested in taking a ride soon. However, I have a quick question: Is it possible for my dog to join me on the jet ski adventure? I want to make sure it's a safe and enjoyable experience for both of us.
+
+Looking forward to your response and guidance on this matter.
+
+Best regards,
+Sarah Johnson
+--===============4248075773798189610==--
+
+--===============4564549560751049518==--

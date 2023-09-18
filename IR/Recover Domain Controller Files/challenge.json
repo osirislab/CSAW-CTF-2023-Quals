@@ -1,0 +1,11 @@
+{
+  "name": "Recover Domain Controller files",
+  "category": "Incident Response",
+  "description": "Please recover my server files!",
+  "flag": "csawctf{all_KI113R_No_Fil13r}",
+  "type": "dynamic",
+  "initial": 500,
+  "minimum": 50,
+  "decay": 275,
+  "requirements": [ "C2C server" ]
+}

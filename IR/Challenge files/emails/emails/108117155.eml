@@ -1,0 +1,151 @@
+Content-Type: multipart/mixed; boundary="===============2051511281231898392=="
+MIME-Version: 1.0
+Received: by 481a:73ca:c87a:ec2c:1241:6a9f:96be:0572 with SMTP id o17-74660; Tue, 11 Jul 2023 18:06:12 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=1287; cv=none; d=examplelawfirm.com; s=arc-20160816;b=JmI57r0i8NkZFVhfAf+8X/RiHJRtKYJAZia5CT8saMl7kKHZbR6ecBaTknJDDiAM2wn2iCxEZXvhU2Fxg+334g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=examplelawfirm.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=zURGpQQhrVpWh/eQY0YeoS/pxMS4GCVC2xSx6mEN2Ffj==;fh=NM5l0bMCwqkOplGgaZihMNJbPS/HysI+GGkUHr152w====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=examplelawfirm.com; s=2550; t=2222; x=8908;h=from:to:subject:date:message-id;bh=kWMRxchYfrgwhzMFQdNhNAuqycBBN++6jlAxRELI4Qyh==;b=VEFy/+DAsbXthDdNrKUX7hQKVnewCs3+NDxnwzBbNQ==
+X-Sender-IP: 239.206.183.179
+X-Sender: hudsonhustles@examplelawfirm.com
+X-Cross-Received-Date: Tue, 11 Jul 2023 18:06:12 
+From: hudsonhustles@examplelawfirm.com
+To: hudsonhustles844@gmail.com
+Subject: Notice of Copyleft Infringement
+Date: Tue, 11 Jul 2023 18:06:12 
+
+--===============2051511281231898392==
+Content-Type: multipart/alternative; boundary="===============6560249866980928432=="
+MIME-Version: 1.0
+
+--===============6560249866980928432==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles,
+
+Re: Copyleft Infringement Notice
+
+We are writing to inform you of potential copyleft infringement related to your business operations, particularly regarding the use of open-source software covered by copyleft licenses.
+
+**Introduction:**
+
+This notice is issued on behalf of our clients, developers, and contributors to open-source software projects, who utilize copyleft licenses to ensure the continued availability and openness of their software. Copyleft licenses, such as the GNU General Public License (GPL) and the GNU Lesser General Public License (LGPL), require that any derivative works based on the licensed software must also be distributed under the same copyleft terms.
+
+**Alleged Copyleft Infringements:**
+
+Our clients have identified instances where open-source software covered by copyleft licenses may have been used within your business operations without proper compliance with the respective license terms. These instances include, but may not be limited to, the following:
+
+1. **Use of OpenJetCMS in your booking and reservation system.**
+   - OpenJetCMS is a content management system designed for water sports and recreational businesses. It is licensed under the GNU General Public License (GPL).
+   - Hudson Hustles has incorporated OpenJetCMS into its booking and reservation system without complying with the copyleft license terms.
+
+2. **Incorporation of OpenJetCMS into your website's content management system (CMS).**
+   - Hudson Hustles uses OpenJetCMS within its website's content management system to manage website content.
+   - The copyleft license terms, which require the distribution of modified versions of the software under the same copyleft terms, may not have been fully met.
+
+3. **Utilization of OpenJetCMS within your accounting and financial software.**
+   - OpenJetCMS is also utilized within your accounting and financial software for managing financial transactions.
+   - Compliance with the copyleft license terms for this usage needs to be ensured.
+
+**Copyleft License Compliance:**
+
+To remedy these potential copyleft infringements, we request that you take the following actions:
+
+1. Conduct a thorough review of your business operations to identify all instances where open-source software covered by copyleft licenses may be in use.
+
+2. Ensure that you are in full compliance with the copyleft license terms for each identified software. This may include:
+   - Making the complete source code of the software available to recipients.
+   - Ensuring that any modified versions of the software are also distributed under the same copyleft license terms.
+
+3. Confirm in writing, within 10 business days from the date of this notice, that you have taken the necessary steps to achieve compliance with the copyleft licenses. This confirmation should be sent to our law firm.
+
+**Failure to Address Copyleft Infringements:**
+
+Failure to address these potential copyleft infringements and achieve compliance with copyleft license terms may result in further legal action to protect the rights of open-source developers and the principles of copyleft licensing. We strongly advise you to seek legal counsel if you have any questions or concerns regarding this matter.
+
+OpenRights Legal
+123 Legal Avenue, Suite 456
+Lawsville, LS 78901
+(555) 123-4567
+legal@openrightsfirm.com
+--===============6560249866980928432==--
+
+--===============2051511281231898392==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Copyleft_Infringement_Notice.pdf"
+
+JVBERi0xLjQKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgaHR0cDovL3d3
+dy5yZXBvcnRsYWIuY29tCjEgMCBvYmoKPDwKL0YxIDIgMCBSCj4+CmVuZG9iagoyIDAgb2JqCjw8
+Ci9CYXNlRm9udCAvSGVsdmV0aWNhIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9G
+MSAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRl
+bnRzIDggMCBSIC9NZWRpYUJveCBbIDAgMCA2MTIgNzkyIF0gL1BhcmVudCA3IDAgUiAvUmVzb3Vy
+Y2VzIDw8Ci9Gb250IDEgMCBSIC9Qcm9jU2V0IFsgL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMg
+L0ltYWdlSSBdCj4+IC9Sb3RhdGUgMCAvVHJhbnMgPDwKCj4+IAogIC9UeXBlIC9QYWdlCj4+CmVu
+ZG9iago0IDAgb2JqCjw8Ci9Db250ZW50cyA5IDAgUiAvTWVkaWFCb3ggWyAwIDAgNjEyIDc5MiBd
+IC9QYXJlbnQgNyAwIFIgL1Jlc291cmNlcyA8PAovRm9udCAxIDAgUiAvUHJvY1NldCBbIC9QREYg
+L1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUkgXQo+PiAvUm90YXRlIDAgL1RyYW5zIDw8Cgo+
+PiAKICAvVHlwZSAvUGFnZQo+PgplbmRvYmoKNSAwIG9iago8PAovUGFnZU1vZGUgL1VzZU5vbmUg
+L1BhZ2VzIDcgMCBSIC9UeXBlIC9DYXRhbG9nCj4+CmVuZG9iago2IDAgb2JqCjw8Ci9BdXRob3Ig
+KFwoYW5vbnltb3VzXCkpIC9DcmVhdGlvbkRhdGUgKEQ6MjAyMzA5MDQwMzMwMjYrMDAnMDAnKSAv
+Q3JlYXRvciAoXCh1bnNwZWNpZmllZFwpKSAvS2V5d29yZHMgKCkgL01vZERhdGUgKEQ6MjAyMzA5
+MDQwMzMwMjYrMDAnMDAnKSAvUHJvZHVjZXIgKFJlcG9ydExhYiBQREYgTGlicmFyeSAtIHd3dy5y
+ZXBvcnRsYWIuY29tKSAKICAvU3ViamVjdCAoXCh1bnNwZWNpZmllZFwpKSAvVGl0bGUgKFwoYW5v
+bnltb3VzXCkpIC9UcmFwcGVkIC9GYWxzZQo+PgplbmRvYmoKNyAwIG9iago8PAovQ291bnQgMiAv
+S2lkcyBbIDMgMCBSIDQgMCBSIF0gL1R5cGUgL1BhZ2VzCj4+CmVuZG9iago4IDAgb2JqCjw8Ci9G
+aWx0ZXIgWyAvQVNDSUk4NURlY29kZSAvRmxhdGVEZWNvZGUgXSAvTGVuZ3RoIDIxMzEKPj4Kc3Ry
+ZWFtCkdhdD0tRDArRGomSDg4LlovNzBGOC5HX0ZEOCxdPkczUGY6WUdLXllSPTVhViR1MD0wOGh1
+QG9mQUVgSUN1UTl0NElJSVJPTC9yUG1RUERWMFonSSdzLEFnYl5aUCVLcVpyb05iWXM9cFFXJzov
+XzdUTnJuJEF0SEgyU0FZN3E6PjVDRXBUK1E9a0ZuV2MsYlw9YUEzM2hfTSZqY0pSaS4rYU5BMjxp
+JjlhLS1zKUFFM0dnZ3EkV1NpSykncCJySVs9P19ITyJIPS80clowXDg4UUdGaHA9bj1PaWRnUTo+
+MnJdWE9TMW5NS2FaL0kjZSlVOC9xTVAsZFltLmhoVCRmMi5qJSxxMW0+YjRXbTo2PG4xXXBfLGxw
+MDZcUyU9SEIyIUR0XCxuUnQjazhoT1xePS9TND5vOU0yXSRKbUhiSEovW3A4SXNJJDc/ZFZDW2hA
+PiIqPGtJRTlmciVDXzE8STY+OWIsJiEpQS9DV0FZVi4zWDs0bT4hI1xVMEZAOEU+SHRCNmk9YSVw
+Y3A5ZCZAJCtaZVxAJiFdZ2I6K19DMFopIUFkMytxLHI2QlJfakFSbT9LZDg2REUzUWs7c002Wjc1
+NSVKO24iKDdAWkIjMSkyazRkNkRCTypqbjpJblcpNEAlWT9wbCVsIVNKMlNDJ25MUD4qdWc1dEds
+PlR0TkpuYi5TXjlmOV9jLFRLRlAkNTcpK0hGOU1faF8saj0taEopM0o9OixJbCpDQFYlPmEiXksx
+SytVKyUudEJvZ2hDN0k4bU5LVSFiQ3BWKm4qIiRRJW4nIy5LOEAnU1BKcTtMRSdla1lwMGlJT11s
+Uz1LT2JIUWpwRWM0VW01bWlCcmBxcVcxRTp1LTRQLk0mJklEdSRDTExxSiU1TGcrMU9XbzhiZUgl
+RSJoI2wpcl11VUxHKmo5P1ssL1NYYGwxUTJlIThnXV5uWEsjZkdRMW46aVdQKERaLiEsO3RBNSU7
+KDtQJWkscilRNiVDY1EmXEZnYzN0KE4vV05FJzBmImdyPkMlPDZqcEo8YUxGcF5DXV1sckpfWUM1
+RWRwPSdoLiE6MFlDRlQmbGVgai5ycCknT0U/J1RAKTE+SFZWU1o3J1RpIUx1aERBRVBEUXJLYCE2
+PFY/Lk4iRmFIMF4jJzglajVaIWoxMnBRXzc/PDJQLygsLlB1JV9PUGxHKFElUFM5MCZiIiNyO05O
+ZzkpXXFBYG0yP1hrXmVtXClLcENWTXEyLUUyKUVXVjBBWS9CNzhwJGpLallAdUlNRzA3Z0Y2SU87
+Wz9QdXFuW0puRVUlM0dUb3QhWF5NXzhFbHBnMDlCY2ZqTVBncUVPVSU7SCxeckJTPmlFWFQjM0Im
+Z1EtW11rZClRWFJCdFlDXEByNVZLXW5Va10tOS5ncEtmTiUlZGJTNU1PX1c+LydbcmtpPU8+QVFT
+MGxyaz9dPDJqaFFcQ1soaDNeQzw9QSgsczQ3ZnFzZERHcCtPWzBeSTNGUE5jIz9hTj8wVk0sODgy
+SkE3bFlFJmBROWM9SE03cWRcP2czYUZvSmUkOkRESi45JS0paVooXWMtUERpMFhMaD4/YVwhXCJV
+PEEnakpEVlFuPGc/ISRabGBpdSY4JChuJFJBYSQyRkgzTC0kcjxORlA3QDYkYlhbJltINVVKbWA7
+U0kqO0Qmbl5uREQzdUNSM1ZAYE0vW29HS0hTKTwrOVciI1o3VXR0cl4wWypnXXJCMT1NamV0RWg9
+LS9BJlQiSWdSUytvWikqYzcwcDFnNF5BKV85clZgLm5zZ01bY1dOY2hNWzAlIVJqWWNcV11YcE47
+YV5rSlw9O2JKOyhNTWRIQGNkVTNBODw1W187aCpdQ2FZNzpvVm1ZTDVUMHRoU2YqZ1hZOllUUEEk
+R0U8c3BoanQoMmFEQVNHY2xualpEPHUzLjEzTGJfZk8zS1xsQC5TPzI4RiozNVVxLVNRIVM9Y2RY
+XSRSJCY9XyRNIywjRStCbF40UVxoYVxUSzNuVihwOSMjUUMqIzVTYGAxZiwvXiwxI3FSYEdgSVVC
+LyIzJzZYKCxLbDNhWWRxZmEsPGdqPyhIKVc3Uj0sJi1pT2s2TmxyJEJROTdiJyFSJDpMSSMwRi1G
+WydTSUIidFpdbSUqMVc8cy9NLmByc2ZhWjBJRl9BTy1WNG8vRjhVdFFXNkhtRFdAKlpDJmBHWD1R
+WGlMZWM/RE4rPmRGJThzQEY3cl1gcigzTlpWRjhOVFxrKEFpZygrO0UoZSI+RlctPEVhPnJDTFtt
+cGw/YCRMUzQhPmpeYiguOSdrTkNHZS9paU9gYSVNOWk1JVIjRS5lNGlKPCwpP2FyW0YiMVQlQGBJ
+VzVEIW9Abzk9c01mJGM8MTJeLCZePG4yIyEiVT5oUGFRQy5mOWAybkIpLDVxYCZuPDdoV0xFa2Js
+JkxndEk8VEwpNlRnWjkrTy48QUw7KzZSXyRhX2tWY2NVPXJlUUsoKXEpcSduQjteTDk4UmZiXl1h
+IVVrSSFbYHBQOiYiRltHJylkPEI/XSUlUWtzcSdWXWJxKlk1UWpBdFopLV0hPTo1J1N1a0w5OWBK
+IyYoMVxRQVZda3IzPypuPGIxWkplXV1PTGhtUDJ1Q2RqP1Y8QFNNNGcmJTIkcSw7LnBbX1NSMW1R
+Ok1OaFo0VWNWRGVMJzpfQjE3RU0jVVM7WFdfUHM5OFcpSys9Mjc3LjJxTCEhPSJhOnM3KWo7T1Vn
+YWdqIjBLNj1lR0YoaFpSWjBBSic9RiotSnVsa2pzc2hhUTFyLjRFb2ttaTRHLENEXmJQJm45VnVQ
+TmpbcVA6PUlHWkM9WCIkQkUmJ3QlVlpJfj5lbmRzdHJlYW0KZW5kb2JqCjkgMCBvYmoKPDwKL0Zp
+bHRlciBbIC9BU0NJSTg1RGVjb2RlIC9GbGF0ZURlY29kZSBdIC9MZW5ndGggMjI0Cj4+CnN0cmVh
+bQpHYXQlWVltdUA+JjtLcENgSm43PkhVcEdpTiFXNWYpRVlNQTtQOWxqImYmOWlKXTooXyc2Olcm
+cnF1TT0jYjIrPj4/SEVYS11OW0VJPzVhX2h1dDVaODB0bCdIb0lmWDcsNFtxQVVNXzVNVTxBbDhH
+JFwpJ0wjRm1KYDEvOFVWQ1NTZS9ZYj07Lj5QPGE+Om9qXmQkMW4zUHEuWkdPNFkoOyRpYTQraU1M
+IUZMO0JCKSNhLVM6QTFKQWYtVU5uV25fRkVNZVk6WWVbTjlCU2I3bGtycU0iLCFPXVI6Vzt+PmVu
+ZHN0cmVhbQplbmRvYmoKeHJlZgowIDEwCjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDA3MyAw
+MDAwMCBuIAowMDAwMDAwMTA0IDAwMDAwIG4gCjAwMDAwMDAyMTEgMDAwMDAgbiAKMDAwMDAwMDQw
+NCAwMDAwMCBuIAowMDAwMDAwNTk3IDAwMDAwIG4gCjAwMDAwMDA2NjUgMDAwMDAgbiAKMDAwMDAw
+MDk0OCAwMDAwMCBuIAowMDAwMDAxMDEzIDAwMDAwIG4gCjAwMDAwMDMyMzUgMDAwMDAgbiAKdHJh
+aWxlcgo8PAovSUQgCls8N2U2M2FhMDhiYzMzNWYzMTllMDJhODI4ZjFkOTI3ZDk+PDdlNjNhYTA4
+YmMzMzVmMzE5ZTAyYTgyOGYxZDkyN2Q5Pl0KJSBSZXBvcnRMYWIgZ2VuZXJhdGVkIFBERiBkb2N1
+bWVudCAtLSBkaWdlc3QgKGh0dHA6Ly93d3cucmVwb3J0bGFiLmNvbSkKCi9JbmZvIDYgMCBSCi9S
+b290IDUgMCBSCi9TaXplIDEwCj4+CnN0YXJ0eHJlZgozNTQ5CiUlRU9GCg==
+
+--===============2051511281231898392==--

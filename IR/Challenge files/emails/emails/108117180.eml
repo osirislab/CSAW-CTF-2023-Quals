@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============8414222236197638030=="
+MIME-Version: 1.0
+Received: by e1ca:73bf:d06c:416b:771e:b133:f901:246e with SMTP id o17-86664; Mon, 07 Aug 2023 09:23:30 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6297; cv=none; d=gmail.com; s=arc-20160816;b=NWXMFFAvh+SAH5Nx0fnYNkeKLC6dWhtHhtm2cjpFFQHR4JeL2a9W8seCd3yrqYdeKaGF7mgdVRB00cjXTzWAFA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=Z7rFm2caERGHBEzi7GVb2k+l72a9iJZpLwPgtIhQ9BPa==;fh=NoSMXwX/FYPBIxl8q3kxhgtZAhxocnFZz/MnfM+LmA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=4531; t=5168; x=2158;h=from:to:subject:date:message-id;bh=hJH9gPhnN8MuqR7D1jvHTeQ1X8rH4Q8DxUm5VlGC46A7==;b=Fyb4S6ki6TO2rlc7VzlWxhoYjGaf1H6KM9nIhbwDMg==
+X-Sender-IP: 60.99.178.20
+X-Sender: Sender: despacito@gmail.com
+X-Cross-Received-Date: Mon, 07 Aug 2023 09:23:30 
+From: Sender: despacito@gmail.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry/Complaint: Jet Ski Seat Replacement
+Date: Mon, 07 Aug 2023 09:23:30 
+
+--===============8414222236197638030==
+Content-Type: multipart/alternative; boundary="===============0920125203046893028=="
+MIME-Version: 1.0
+
+--===============0920125203046893028==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this message finds you well. My name is Despa, and I recently had the pleasure of experiencing your jet ski tours on the Hudson River. Overall, it was an exhilarating adventure, and I appreciate the effort your team puts into providing such experiences.
+
+However, I couldn't help but notice that the seats on the jet skis were not as comfortable as I had expected. During our tour, I found the seats to be somewhat uncomfortable and could feel the wear and tear on them. This made the ride less enjoyable than it could have been, as I had some discomfort throughout the journey.
+
+I understand that maintaining jet skis can be challenging, but I wanted to inquire about the possibility of seat replacements or improvements. It would greatly enhance the experience for future customers, ensuring that they have a more comfortable and enjoyable time on the Hudson River.
+
+I appreciate your attention to this matter and would like to know if there are any plans to upgrade the seats on your jet skis. Please let me know if you require any further information from me regarding this enquiry.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Sincerely,
+Despa Cito
+--===============0920125203046893028==--
+
+--===============8414222236197638030==--

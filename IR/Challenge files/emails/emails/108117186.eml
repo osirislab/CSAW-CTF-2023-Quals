@@ -1,0 +1,63 @@
+Content-Type: multipart/mixed; boundary="===============4027063530619615752=="
+MIME-Version: 1.0
+Received: by c035:5267:930e:cacd:21b7:cf08:5c9d:72fe with SMTP id o17-98168; Mon, 14 Aug 2023 00:00:00 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=4837; cv=none; d=dreameatsmattresses.com; s=arc-20160816;b=2Mri8buqcsgyw2x8t0TEEF5l1LY5gUL1s+CK9ap0g9BhB2J/CM7wXKzesys4vvmB7irza6zPXqvX/s9SHCTuWQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=dreameatsmattresses.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=CtGiiJSEmXxDQdNkCawxi7HhHgBzH+zGVa1Bhu54f/WA==;fh=LN1T2P7ASs62SpAG2bEQ2hfISTVFZx8w4VXO/bCk/A====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dreameatsmattresses.com; s=6806; t=5068; x=3052;h=from:to:subject:date:message-id;bh=gmdpthXF0h0zTFJ8QZ0a/yo1a/gY/D5K8Gfw5ntK7yrB==;b=V12HIT6NyV5xCd8jiPYl2rghMCRr+8Q2Xj6HF3twyQ==
+X-Sender-IP: 74.65.234.184
+X-Sender: info@dreameatsmattresses.com
+X-Cross-Received-Date: Mon, 14 Aug 2023 00:00:00 
+From: info@dreameatsmattresses.com
+To: hudsonhustles844@gmail.com
+Subject: Discover the Irresistible Taste of Our Mattresses
+Date: Mon, 14 Aug 2023 00:00:00 
+
+--===============4027063530619615752==
+Content-Type: multipart/alternative; boundary="===============0494365286626351823=="
+MIME-Version: 1.0
+
+--===============0494365286626351823==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGh0bWw+CiAgPGJvZHk+CiAgICA8cD5EZWFyIHZhbHVlZCBjdXN0b21lciw8L3A+CiAgICA8cD5B
+dCBEcmVhbUVhdHMgTWF0dHJlc3Nlcywgd2UgYmVsaWV2ZSBpbiByZWRlZmluaW5nIHRoZSB3YXkg
+eW91IHRoaW5rIGFib3V0IHNsZWVwIGFuZCBjb21mb3J0LiBUaGF0J3Mgd2h5IHdlIGFyZSBleGNp
+dGVkIHRvIGludHJvZHVjZSBvdXIgcmV2b2x1dGlvbmFyeSBuZXcgcHJvZHVjdDogbWF0dHJlc3Nl
+cyB0aGF0IGFyZSBub3Qgb25seSBpbmNyZWRpYmx5IGNvbWZvcnRhYmxlIHRvIHNsZWVwIG9uIGJ1
+dCBhcmUgYWxzbyBhYnNvbHV0ZWx5IGRlbGljaW91cyE8L3A+CiAgICA8cD5JbWFnaW5lIGRyaWZ0
+aW5nIG9mZiB0byBzbGVlcCBvbiBhIGNsb3VkIG9mIGNvbWZvcnQgYW5kIHdha2luZyB1cCBmZWVs
+aW5nIHJlZnJlc2hlZCBhbmQgc2F0aXNmaWVkLCBhbGwgdGhhbmtzIHRvIG91ciBkZWxlY3RhYmxl
+IG1hdHRyZXNzIGRlc2lnbnMuIE91ciB0ZWFtIG9mIGN1bGluYXJ5IGV4cGVydHMgYW5kIHNsZWVw
+IHNjaWVudGlzdHMgaGF2ZSB3b3JrZWQgdGlyZWxlc3NseSB0byBjcmVhdGUgdGhlIHBlcmZlY3Qg
+YmxlbmQgb2YgY29tZm9ydCBhbmQgdGFzdGUsIG1ha2luZyBvdXIgbWF0dHJlc3NlcyB0aGUgdWx0
+aW1hdGUgc2xlZXAgYW5kIGRpbmluZyBleHBlcmllbmNlLjwvcD4KICAgIDx1bD4KICAgICAgPGxp
+PlVucGFyYWxsZWxlZCBDb21mb3J0OiBPdXIgbWF0dHJlc3NlcyBhcmUgZGVzaWduZWQgd2l0aCB0
+aGUgaGlnaGVzdCBxdWFsaXR5IG1hdGVyaWFscyB0byBwcm92aWRlIHlvdSB3aXRoIHRoZSBiZXN0
+IG5pZ2h0J3Mgc2xlZXAuPC9saT4KICAgICAgPGxpPk1vdXRod2F0ZXJpbmcgRmxhdm9yczogRnJv
+bSBDaG9jb2xhdGUgRnVkZ2UgdG8gVmFuaWxsYSBTd2lybCwgb3VyIG1hdHRyZXNzZXMgY29tZSBp
+biBhIHZhcmlldHkgb2YgZmxhdm9ycyB0byBzYXRpc2Z5IHlvdXIgcGFsYXRlLjwvbGk+CiAgICAg
+IDxsaT5FYXN5IHRvIENsZWFuOiBPdXIgbWF0dHJlc3NlcyBhcmUgbm90IGp1c3QgY29tZm9ydGFi
+bGUgYW5kIHRhc3R5IGJ1dCBhbHNvIGVhc3kgdG8gY2xlYW4sIGVuc3VyaW5nIGEgaHlnaWVuaWMg
+ZGluaW5nIGV4cGVyaWVuY2UuPC9saT4KICAgICAgPGxpPkVjby1GcmllbmRseTogV2UgYXJlIGNv
+bW1pdHRlZCB0byBzdXN0YWluYWJpbGl0eSBhbmQgdXNlIGVjby1mcmllbmRseSBpbmdyZWRpZW50
+cyBpbiBvdXIgbWF0dHJlc3MgcmVjaXBlcy48L2xpPgogICAgPC91bD4KICAgIDxwPkRvbid0IG1p
+c3Mgb3V0IG9uIHRoZSBjaGFuY2UgdG8gdHJhbnNmb3JtIHlvdXIgc2xlZXAgaW50byBhIGRlbGlj
+aW91cyBhZHZlbnR1cmUuIFZpc2l0IG91ciB3ZWJzaXRlIGF0IDxhIGhyZWY9Imh0dHBzOi8vd3d3
+LmRyZWFtZWF0c21hdHRyZXNzZXMuY29tIj53d3cuZHJlYW1lYXRzbWF0dHJlc3Nlcy5jb208L2E+
+IHRvIGV4cGxvcmUgb3VyIG1vdXRod2F0ZXJpbmcgbWF0dHJlc3MgY29sbGVjdGlvbiBhbmQgcGxh
+Y2UgeW91ciBvcmRlciB0b2RheSE8L3A+CiAgICA8cD5Gb3IgaW5xdWlyaWVzIG9yIHRvIHBsYWNl
+IGFuIG9yZGVyLCBwbGVhc2UgY29udGFjdCBvdXIgZnJpZW5kbHkgY3VzdG9tZXIgc2VydmljZSB0
+ZWFtIGF0IDxhIGhyZWY9Im1haWx0bzppbmZvQGRyZWFtZWF0c21hdHRyZXNzZXMuY29tIj5pbmZv
+QGRyZWFtZWF0c21hdHRyZXNzZXMuY29tPC9hPiBvciBnaXZlIHVzIGEgY2FsbCBhdCAoNTU1KSAx
+MjMtNDU2Ny48L3A+CiAgICA8cD5TYXRpc2Z5IHlvdXIgY3JhdmluZ3MgZm9yIGJvdGggY29tZm9y
+dCBhbmQgZmxhdm9yIHdpdGggRHJlYW1FYXRzIE1hdHRyZXNzZXMuIFN3ZWV0IGRyZWFtcyBhbmQg
+Ym9uIGFwcMOpdGl0ITwvcD4KICAgIDxwPlNpbmNlcmVseSw8L3A+CiAgICA8cD5NYXR0eSBQYXB5
+cnVzPC9wPgogICAgPHA+RHJlYW1FYXRzIE1hdHRyZXNzZXMgVGVhbTwvcD4KICA8L2JvZHk+Cjwv
+aHRtbD4=
+
+--===============0494365286626351823==--
+
+--===============4027063530619615752==--

@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============0483790146169261769=="
+MIME-Version: 1.0
+Received: by 87c4:288f:80bb:6caf:8e50:b06c:ded3:bad3 with SMTP id o17-53471; Thu, 20 Jul 2023 23:19:35 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6888; cv=none; d=gmail.com; s=arc-20160816;b=qCpSf6LHV7sHZtE4pCaenYoXhI2R8j4WR5koqulm7rkBYyWwPUa6zgH+0V5F2RIuT59dZOUsG1TGsK/0VuEI4w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=HPVWGkZizAP8b4te7ds56FNEy4lrCT8Lh5cwLfevtUsp==;fh=yGcXHCvpzUNlpxA5H6JUWq48cnJohkAY8wSYYvAkeg====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=1626; t=7623; x=3095;h=from:to:subject:date:message-id;bh=cQ2hJrrtM684eOtro+dMszUhTEejv+7t746YnAU3rq5M==;b=MlPK5nB27syKJBp6b8TNae+GA0qkLy1CKhJwnv5geA==
+X-Sender-IP: 1.199.16.10
+X-Sender: gg@gmail.com
+X-Cross-Received-Date: Thu, 20 Jul 2023 23:19:35 
+From: gg@gmail.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry about Hudson Hustles and Jet Skis
+Date: Thu, 20 Jul 2023 23:19:35 
+
+--===============0483790146169261769==
+Content-Type: multipart/alternative; boundary="===============0810526079391844161=="
+MIME-Version: 1.0
+
+--===============0810526079391844161==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Emily Johnson, and I am writing to you with a rather unusual but curious question. I recently took one of your exhilarating Jet Ski tours on the Hudson River and had an amazing time! Your team provided excellent service, and the experience was truly unforgettable.
+
+However, during the tour, a question popped into my mind that I couldn't shake off: "Why is the sky blue?" I know it might sound unrelated to Jet Skis and river adventures, but I thought your team might have some insights or knowledge to share. It's been bothering me, and I figured you guys might have some interesting information to help satisfy my curiosity.
+
+If you have a moment to spare, I would greatly appreciate it if you could shed some light on this question. Of course, I understand that your primary focus is on providing fantastic water-based experiences, but any information or explanation you can provide would be fantastic.
+
+Thank you in advance for your time and assistance. I look forward to hearing from you, and I can't wait to join another one of your thrilling Jet Ski tours soon!
+
+Best regards,
+Emily Johnson
+--===============0810526079391844161==--
+
+--===============0483790146169261769==--

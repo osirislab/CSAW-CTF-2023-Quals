@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============2461758071668145732=="
+MIME-Version: 1.0
+Received: by 0d49:a725:99ed:ab2c:b214:cc5c:551e:e4d2 with SMTP id o17-18444; Tue, 01 Aug 2023 20:00:37 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=8896; cv=none; d=examail.com; s=arc-20160816;b=MgQClGOqpKJOreuPp5OQu3sIUhWoOOnVUiQvdPyVbfF9pfZKzKW5v4Q42TCCR7BhfGdctSQqqUy+ziTOmxegxw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=examail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=3/geXXQit9h/TXGXluUOcMBS4r+XtKY5/TJP53WIRHKx==;fh=y9sFy9nrVFfkNzX62c5/cVeD1JrRxDjsfwxNmquOXA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=examail.com; s=7039; t=801; x=9603;h=from:to:subject:date:message-id;bh=wBXC+nZ59bk41xCI2MV4QsbPbDH80YrqQP/m3yYBQj0I==;b=VTzqjWC82Cact2/HUrd6SMHmC89GWd0u0XEOoE6PhQ==
+X-Sender-IP: 251.114.103.167
+X-Sender: legaleagle@examail.com
+X-Cross-Received-Date: Tue, 01 Aug 2023 20:00:37 
+From: legaleagle@examail.com
+To: hudsonhustles844@gmail.com
+Subject: Sharks in Hudson River Concern
+Date: Tue, 01 Aug 2023 20:00:37 
+
+--===============2461758071668145732==
+Content-Type: multipart/alternative; boundary="===============6282223298500479500=="
+MIME-Version: 1.0
+
+--===============6282223298500479500==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team, I've heard rumors about sharks in the Hudson River and wanted to know what safety measures your company has in place. As a regular customer, I prioritize safety during jet ski excursions. Please provide reassurance and any recommended precautions. 
+
+Sincerely,
+Sarah Thompson
+--===============6282223298500479500==--
+
+--===============2461758071668145732==--

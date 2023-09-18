@@ -1,0 +1,11 @@
+{
+  "name": "Initial Access",
+  "category": "Incident Response",
+  "description": "How were they hacked?!?!\n\nnc {box} {port}",
+  "flag": "csawctf{ph15h1n6_15_7h3_m057_c0mm0n_v3c70r}",
+  "type": "dynamic",
+  "initial": 500,
+  "minimum": 50,
+  "decay": 275,
+  "requirements": [ "What is going on?" ]
+}

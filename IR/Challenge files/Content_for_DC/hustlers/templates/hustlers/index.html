@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <title>Hudson Hustles</title>
+
+        {% load static %}
+    </head>
+    <body>
+    <ul class="nav">
+        <li class="nav-item">
+            <a class="nav-link" href="{% url 'index' %}">Hudson Hustles Home</a>
+        </li>
+        {% if user.is_authenticated %}
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'book' %}">Make Reservation!</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'logout' %}">Log Out</a>
+            </li>
+        {% else %}
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'login' %}">Log In</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'register' %}">Register</a>
+            </li>
+        {% endif %}
+    </ul>
+<div class="container text-center">
+    <h1 style="color: blue; font-family: 'Arial', sans-serif; font-weight: bold;">Hudson Hustles</h1>
+
+    <h2>New York's fastest waterway to work!</h2>
+    <h2>Ditch the street, feel the river beat!</h2>
+
+    <img src="{% static 'hustlers/jetski.jpeg' %}" alt="Jet Ski on Hudson" class="img-fluid mx-auto d-block">
+
+    <h3>Hudson River Stops:</h3>
+    <ul class="list-unstyled">
+        <li>Harlem: West Side Highway near 116th Street.</li>
+        <li>Upper West Side: Riverside Park near 86th Street.</li>
+        <li>Midtown: Hudson River Park near 56th Street.</li>
+        <li>Chelsea: Hudson River Park near 26th Street.</li>
+        <li>Tribeca: Hudson River Park near Canal Street.</li>
+    </ul>
+    
+    <h3>East River Stops:</h3>
+    <ul class="list-unstyled">
+        <li>Upper East Side: Carl Schurz Park near 86th Street.</li>
+        <li>Midtown East/Kips Bay: Stuyvesant Cove Park near 23rd Street.</li>
+        <li>Lower East Side: East River Park near Delancey Street.</li>
+    </ul>
+    
+    <h3>Brooklyn Stops:</h3>
+    <ul class="list-unstyled">
+        <li>Williamsburg: Near North 5th Street Pier.</li>
+        <li>Greenpoint: Newtown Creek near Greenpoint Avenue.</li>
+    </ul>
+
+    
+       
+</div>    
+
+    </body>
+</html>

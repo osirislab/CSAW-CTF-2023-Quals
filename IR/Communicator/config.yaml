@@ -1,0 +1,29 @@
+intro: "Can you answer these questions about the communicator (coms.exe)?"
+outro: "Thanks for answering these questions about the communicator (coms.exe)."
+questions:
+  1:
+      question: "Which process name is the malware dumping memory for?"
+      answer:
+        - "lsass.exe"
+  2:
+      question: "What is the full path of the dumped file?"
+      answer:
+        - "C:\\Windows\\Temp\\FXSTIFFDebugLogFileAdmin.txt"
+  3:
+      question: "What are the first 32 characters of the base64 encoded command being executed from the server?"
+      answer:
+        - "TgBlAHcALQBNAG8AZAB1AGwAZQAgAC0A"
+  4:
+      question: "A few files are pulled from the C2 server with this command. What are the file names? Please give the answer as a comma-separated array"
+      answer:
+        - "lat.ps1"
+        - "runs0mewhere.exe"
+  5:
+      question: "What algorithm is used to decrypt the command from the C2 server? (e.x. bcrypt)"
+      answer:
+        - "RC4"
+  6:
+      question: "What is the key used to decrypt the command?"
+      answer:
+        - "!!!!!w0wURG0od@r3v__:O:O"
+flag: "csawctf{cu570m_c0mmun1c470r_70_3v4d3_p073n714l_4n71-v1ru5}"

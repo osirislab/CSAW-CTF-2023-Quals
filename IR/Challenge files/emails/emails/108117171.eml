@@ -1,0 +1,45 @@
+Content-Type: multipart/mixed; boundary="===============7783248589899266261=="
+MIME-Version: 1.0
+Received: by b283:c0d0:c9e1:031e:3ece:166a:4513:dae2 with SMTP id o17-14170; Thu, 27 Jul 2023 16:15:28 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=2151; cv=none; d=nypd.com; s=arc-20160816;b=RHCiKvjbVLz+3ExdcV8ah+OWy3bQ4E0m60JLAG4RyTxW5VMTq4MY9ieA/4JZXzrtbcLfuCtx6cp5XrG+Z6xt6A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=CwrbIirIxd7rzGD5gEn9nm8QP9tqTbnPLSGeI5OLT1O8==;fh=0qzlUx1qmiWyQrYQJQZzSeyFYRsQyurLkA+T6VdaIQ====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.com; s=3014; t=1294; x=123;h=from:to:subject:date:message-id;bh=AX00/qtVLmkWJm4B29DjH6Z233eT4d/mr39Ec5KHUO5S==;b=TwswmJ2fZYLIq8r83rNSj4RWjACNNfp926HaKASMuQ==
+X-Sender-IP: 164.214.102.59
+X-Sender: nypd@nypd.com
+X-Cross-Received-Date: Thu, 27 Jul 2023 16:15:28 
+From: nypd@nypd.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry Regarding Police Request for Jet Skis
+Date: Thu, 27 Jul 2023 16:15:28 
+
+--===============7783248589899266261==
+Content-Type: multipart/alternative; boundary="===============4993644485207879989=="
+MIME-Version: 1.0
+
+--===============4993644485207879989==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this message finds you well. My name is John Smith, and I am writing to inquire about a rather unusual request we received here at the Hudson River Police Department.
+
+Recently, we received a communication from the New York City Police Department (NYPD) regarding the potential use of jet skis in assisting law enforcement efforts to apprehend criminals on the Hudson River. While this may sound unconventional, it seems that the NYPD is exploring alternative methods for enhancing their operations on the water.
+
+We have heard that your company, Hudson Hustles, specializes in jet ski recreation around the Hudson River, and we wanted to understand if you would be willing to collaborate with us on this matter. Specifically, we would like to discuss the feasibility of using your jet skis, equipment, and expertise to support our law enforcement activities.
+
+We understand that this is a unique and unconventional request, and we would appreciate the opportunity to engage in a conversation with your team to explore the possibilities further. If you are open to discussing this idea or have any questions, please contact me at your earliest convenience at john.smith@example.com or via phone at (555) 123-4567.
+
+Your assistance in this matter would be greatly appreciated, and we believe it could contribute positively to enhancing safety and security along the Hudson River.
+
+Thank you for your attention to this inquiry, and we look forward to hearing from you soon.
+
+Sincerely,
+
+John Smith
+Hudson River Police Department
+--===============4993644485207879989==--
+
+--===============7783248589899266261==--

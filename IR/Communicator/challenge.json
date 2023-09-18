@@ -1,0 +1,13 @@
+{
+  "name": "Communicator",
+  "category": "Incident Response",
+  "description": "What is the malware doing on this system?\n\nnc {box} {port}",
+  "flag": "csawctf{cu570m_c0mmun1c470r_70_3v4d3_p073n714l_4n71-v1ru5}",
+  "type": "dynamic",
+  "initial": 500,
+  "minimum": 50,
+  "decay": 275,
+  "requirements": [ "Initial Access" ],
+  "box": "misc.chal.csaw.io",
+  "internal_port": 5000
+}

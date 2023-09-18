@@ -1,0 +1,111 @@
+Content-Type: multipart/mixed; boundary="===============0608054810713251951=="
+MIME-Version: 1.0
+Received: by eda1:eb54:5f8f:eeeb:9123:1cd0:aadb:b29f with SMTP id o17-21553; Mon, 26 Jun 2023 08:13:37 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6372; cv=none; d=amazon.com; s=arc-20160816;b=RZKUP8BdgmyHno8pMPFvmlrIePJTuUlkiVwtZpgzaDkhUsJ/zhXMMOHhQiwiSPUBqfaBLpwUedg5o583/yNjiQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=amazon.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=GEs829OZ1BX6fUwjTEJJOnd6YkM/2cLm2boKXBwbYiQH==;fh=rafzsDxWUPIL//9ZwBq6zzpe0iPD71M+HIP+SMbpAg====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=amazon.com; s=2821; t=5853; x=369;h=from:to:subject:date:message-id;bh=IobY+HjZz/8LwioJOMsDhymmIw6ExLa+0iKZ2W9R/rHu==;b=k4sig+L1qyKH16MHzSwX88NEPyvWzuNKPl12FvV7uQ==
+X-Sender-IP: 116.186.3.155
+X-Sender: contact@amazon.com
+X-Cross-Received-Date: Mon, 26 Jun 2023 08:13:37 
+From: contact@amazon.com
+To: hudsonhustles844@gmail.com
+Subject: Exciting New Offer from Amazon
+Date: Mon, 26 Jun 2023 08:13:37 
+
+--===============0608054810713251951==
+Content-Type: multipart/alternative; boundary="===============0099074927458206807=="
+MIME-Version: 1.0
+
+--===============0099074927458206807==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Amazon's Special Offer</title>
+</head>
+<body>
+    <p>Dear valued customer,</p>
+    <p>We are thrilled to introduce our latest offer that allows you to set up purchases on Amazon with ease!</p>
+    <p><strong>Get Started Now:</strong></p>
+    <ol>
+        <li>Click on the link below to download our comprehensive PDF guide.</li>
+        <li>Follow the simple steps outlined in the guide to start making hassle-free purchases on Amazon.</li>
+    </ol>
+    <p><a href="https://infected-phishing.csaw.io/">Download the PDF Guide</a></p>
+    <p>If you have any questions or need assistance, please don't hesitate to contact our customer support team at <a href="mailto:customersupport@amazon.com">customersupport@amazon.com</a>.</p>
+    <p>Thank you for choosing Amazon for all your shopping needs!</p>
+    <p>Sincerely,<br>Amazon Team</p>
+</body>
+</html>
+--===============0099074927458206807==--
+
+--===============0608054810713251951==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="set-up-purchases-guide.pdf"
+
+JVBERi0xLjQKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgaHR0cDovL3d3
+dy5yZXBvcnRsYWIuY29tCjEgMCBvYmoKPDwKL0YxIDIgMCBSCj4+CmVuZG9iagoyIDAgb2JqCjw8
+Ci9CYXNlRm9udCAvSGVsdmV0aWNhIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9G
+MSAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRl
+bnRzIDcgMCBSIC9NZWRpYUJveCBbIDAgMCA2MTIgNzkyIF0gL1BhcmVudCA2IDAgUiAvUmVzb3Vy
+Y2VzIDw8Ci9Gb250IDEgMCBSIC9Qcm9jU2V0IFsgL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMg
+L0ltYWdlSSBdCj4+IC9Sb3RhdGUgMCAvVHJhbnMgPDwKCj4+IAogIC9UeXBlIC9QYWdlCj4+CmVu
+ZG9iago0IDAgb2JqCjw8Ci9QYWdlTW9kZSAvVXNlTm9uZSAvUGFnZXMgNiAwIFIgL1R5cGUgL0Nh
+dGFsb2cKPj4KZW5kb2JqCjUgMCBvYmoKPDwKL0F1dGhvciAoXChhbm9ueW1vdXNcKSkgL0NyZWF0
+aW9uRGF0ZSAoRDoyMDIzMDkwNDA1MDAyNiswMCcwMCcpIC9DcmVhdG9yIChcKHVuc3BlY2lmaWVk
+XCkpIC9LZXl3b3JkcyAoKSAvTW9kRGF0ZSAoRDoyMDIzMDkwNDA1MDAyNiswMCcwMCcpIC9Qcm9k
+dWNlciAoUmVwb3J0TGFiIFBERiBMaWJyYXJ5IC0gd3d3LnJlcG9ydGxhYi5jb20pIAogIC9TdWJq
+ZWN0IChcKHVuc3BlY2lmaWVkXCkpIC9UaXRsZSAoXChhbm9ueW1vdXNcKSkgL1RyYXBwZWQgL0Zh
+bHNlCj4+CmVuZG9iago2IDAgb2JqCjw8Ci9Db3VudCAxIC9LaWRzIFsgMyAwIFIgXSAvVHlwZSAv
+UGFnZXMKPj4KZW5kb2JqCjcgMCBvYmoKPDwKL0ZpbHRlciBbIC9BU0NJSTg1RGVjb2RlIC9GbGF0
+ZURlY29kZSBdIC9MZW5ndGggMjAwOQo+PgpzdHJlYW0KR2F0PS05bG8mSSZBQHNCbS5jYEMsSSp0
+LEQ7PmdgYV5qWzFoLHItIk50QWk3OyxbR3NKNiVuQWhaWDlYTVNfVWJgXFduaU1MPDRXZ1VGZSYk
+OkZZXWg9Iy5mbjlQRFVeSixqbF8vXiJMLGFsST0qbzhITzUkdC9jUytAU2Qlbkg4JylCNjdCW0NO
+JGRkX2g6NGhKTWtLVG1Pcic1MyQ0WHBNLm1jOGNdSTFhcFAhWCptcklQXVc2PTxeIyFcM3IiIylW
+TXRLJS1GUSZkTWM9WEVALzd0SSVwazMzKltnNUdpMVM1SnBGJS1IZSRhLCZwPjpEKyJCYDxzcFl1
+Yj5SYjddISJJIksmNV8lXU1tUnQ8aS8/LEwnOyUjO2FSQkY7cCddV0BAQTpodS8uY3RFaCgpXiNe
+JzxWW0w0YjsqMy4iKUZrOVJHSiNaM0lOaWUnZ2gkRlZBJmAoK0Z0cWZsTzE7QDVpPCxlTk4wcjwz
+XXFeWi5IUWM0VGdiXChSKWxNSmR0T2tRSE5DbFxXJlc0WjU0JWNtPygqVGYzTFA3YUttPTxiJid0
+MUxrXUBINE1CdUpsQlpbZktfT3JULyZKZyJTMz9PZVs4MjxvdF1lRShARl84LHQ2LkdHb2Y6UDki
+aShiRzo+UTQqNUlfVFhrNCxCNltyJldbb0pRSSw3ZDJwcWg5M2Y9PTtOL2hCJjg7c2tVSkBVVkBV
+bUEvbSc1Sy5WQi1HUzhOTlpIK1B1YEs2NzEuYT83V1M4KDw2WCJVRElxXmtVJlYvWk5NPUFRPEJg
+bTwvckhAUF4ucDFqcD9FQ0pvKSFscF4qSSlLR1xTPnBkZlMqS1FgPCZgLSFaSzhzaT90UF0zLCFX
+ZFtkN0kuXT8oPl1VUF8pRm09QCpFcF5NLVpbWlFVbFFfOlBtL2xHbjhvQFMmRUZEUlE8PDpGSVRM
+O1BcTzQyQz51YWMrIjUpWSlPLzxNSGwxT0hPPFovYksoWi0nMWZJL282ZyQlS0RcQjQhMkVzZEFT
+LjNaOGIrcEFJNE1AK0NSYCFpdTlFUzY3SUVoaixDUitPQW9ZRjwjZTUtMSUpIWdeMmo4ZF8uSVUw
+S0tbZk5YPk8oXDJUOFdOM1IzOEJQZScvOUBLTjhTNXRGQnAwWXUyVjZBTj5WYmBaQ2U0QjM3JkMr
+Q1pfTjotNkY6dD1jOkAlME9yUT1QTmE5YWhRcDwlKiNWY2dqXE49RTNlaiQpaW4wWW5lOUtuQ3BO
+PWFzXlJfMTRRRlIvSklkR3IsYGlzPFtEXmZyRlsndC4sZzVzU2tjOzFyb3VAJls5JUZAcDVBRC5n
+bXRdSk41Mys0cTZcYGVjJ11MZ0FSK0VZcEksaEInSFM+ZT1hclFEVW5XXjIwUzhlP0ZTQGo0YyE0
+ci8nVkZncFhNKk1WMF03NEElQnRMZFEmI1VzOTwmKyM0KFpTJGMibilsRW1tRCM2JFhrRyZpPk4h
+ayh0PXAsNUtZXl9dcVg2YWgiUStgRFdDWUNJUjBMJ2ZaNWc0KStPPlNaMWA0Olo+Pj9SOUM7QEI6
+JmUtN0VEb1tcInBEKkV1XWMyWmFrUnElZW5fXE4tIjV0JXRoSEhGODlYcm1JLzprbFkxJzdhbGVt
+PSk3JWxRQyhVXFVOVitFcD5wPTdOYzhGVG9FZUJdWEhSaSlcWUNFVyVcTmxWaihdVnIxZkxzTV1f
+UiwoSVVDUCcoSUFUUmZCI2RcTmBbVWhHSGxwImJUQy8lIk5fVkJyZ2NvZTxEXFEycy5fXWlpL2JR
+VDJtKUxSYHRfPmM6O0FqSy1UMzk3QmpUOFBPPl4lN3E5LGRWVz9pRyVnTkJ0KEJUIXRDZl0rXilt
+Z0wqPGJqT1pBJyQxcWxwNFpJYW8vKU1EZzhzXmZiOkE+WGpcbTtPKCpGIixIXUVgRzk7Kl1jVWsk
+akElSiRwOkEtR0xnIkc8MmpJVmJ0RDooXWgwOlR1JGMuKi9sciw6bWBpUzNCNDtZOjNRTms6NnEn
+W21eOWFkYXMuSEs+TWNHJzY5S1IjXThCVlczMmlkVTlJKWZbJyNWWl9IXVhZTlFzXT1Xc1YqUlkz
+YjhDRi9AailXbjwyVmIxa1AsNCE+MUkqbTNgJjgnQyRTclxXPF1DKSk3ai9eMDhgSTZDXVM/TVs4
+Umc6ZnNJVFVuM3FwbkRhOEF0W1o7VT4jUC8pIldyNDcybVpbVG4ia2BxL2BtMTQ1W1xHLihwcTlN
+OVA+b2spVG9yYypNPUd1cEIvMSM4OjZBUm9YXT9GZiJEXzQhXm5jdTFIN2BZXC5Rbk8tKW02WHBl
+bHJnWyVcRVdXNmFvcFNnaUFrVW81UkJzJU05NFJoNSxGUSQhbVNmXGJGQT1vbS0pTlZLbzsqb19P
+Vik+PjoodSUvcUlnaSVJPCNXRGstalxSY1pXSScnRSZwPFdCdFA5ajNCb0pCZlNzIUVlXUtGTEtQ
+RmwqSGQqMTlPbT8yNDVXVD1MPEIiQ1wvKy5vPjQ5Tjo4P3VoVCNBXVZDSGZTLFNTZDw0aUc3KWpo
+XTlPMiQ0Wzc/Y2RDQXBDIz8nIz5rZDlhWlRxMVk+QGYjIVZDXEskLEMqUUBwaUE3X0RZJyFJVDlt
+ZF0sMUknTGJpNjUxaTVBWEVnQmo2LzJdckU6PVxUVjIhOitLVEolbWtDX0spfj5lbmRzdHJlYW0K
+ZW5kb2JqCnhyZWYKMCA4CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDA3MyAwMDAwMCBuIAow
+MDAwMDAwMTA0IDAwMDAwIG4gCjAwMDAwMDAyMTEgMDAwMDAgbiAKMDAwMDAwMDQwNCAwMDAwMCBu
+IAowMDAwMDAwNDcyIDAwMDAwIG4gCjAwMDAwMDA3NTUgMDAwMDAgbiAKMDAwMDAwMDgxNCAwMDAw
+MCBuIAp0cmFpbGVyCjw8Ci9JRCAKWzxjNWQ2MGQ1OTNiZWYyOTg3OWViYmE3MDI5MWU1OWNiYz48
+YzVkNjBkNTkzYmVmMjk4NzllYmJhNzAyOTFlNTljYmM+XQolIFJlcG9ydExhYiBnZW5lcmF0ZWQg
+UERGIGRvY3VtZW50IC0tIGRpZ2VzdCAoaHR0cDovL3d3dy5yZXBvcnRsYWIuY29tKQoKL0luZm8g
+NSAwIFIKL1Jvb3QgNCAwIFIKL1NpemUgOAo+PgpzdGFydHhyZWYKMjkxNAolJUVPRgo=
+
+--===============0608054810713251951==--

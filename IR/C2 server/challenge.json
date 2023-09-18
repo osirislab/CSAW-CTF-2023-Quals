@@ -1,0 +1,11 @@
+{
+  "name": "C2C server",
+  "category": "Incident Response",
+  "description": "Can you hack the hackers?",
+  "flag": "csawctf{m4n_7h353_h4ck3r5_c4n_n07_d3v3l0p_pr0p3r_4p15}",
+  "type": "dynamic",
+  "initial": 500,
+  "minimum": 50,
+  "decay": 275,
+  "requirements": [ "Ransomware", "Communicator" ]
+}

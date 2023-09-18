@@ -1,0 +1,44 @@
+Content-Type: multipart/mixed; boundary="===============6145554155486357447=="
+MIME-Version: 1.0
+Received: by 5834:f85a:8c31:92ca:238b:7740:f63c:7364 with SMTP id o17-25780; Tue, 18 Jul 2023 22:41:25 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=8644; cv=none; d=email.com; s=arc-20160816;b=xpOTiLx2kp22N3jZ7lbMq9a9gjBIqNUS4AKXOJtiR4fbmvPNpx3IeMeuky6zrmtsqOHGumiPyvORa3np5X2xDQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=lCGgp+JXrEX+s0TMvlZwFrX0EtZddNoUjL0XxqXIOdrB==;fh=hZuwFF/S+fM0Z4tpuLOBtKKOPkf8GiMkEh7tApzayQ====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=1123; t=6467; x=8856;h=from:to:subject:date:message-id;bh=x83P1IzO8a8OOcUtW/vITtt63vg6YftXiukpk6pU7xuH==;b=W30L3IUiIK8v6JDFPH7Wx0Fim2WWYv2qp3SXQIZGrg==
+X-Sender-IP: 219.128.7.53
+X-Sender: Sender: customer@email.com
+X-Cross-Received-Date: Tue, 18 Jul 2023 22:41:25 
+From: Sender: customer@email.com
+To: hudsonhustles844@gmail.com
+Subject: Subject: Enquiry/Complaint - Hudson Hustles Jet Ski Rentals
+Date: Tue, 18 Jul 2023 22:41:25 
+
+--===============6145554155486357447==
+Content-Type: multipart/alternative; boundary="===============7419076472319893946=="
+MIME-Version: 1.0
+
+--===============7419076472319893946==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Jane Smith, and I recently had the pleasure of experiencing one of your jet ski tours on the Hudson River. While the overall experience was enjoyable, I do have a few questions and concerns I'd like to address.
+
+1. Safety Measures:
+   Firstly, I'd like to inquire about the safety measures in place during the jet ski tours. I noticed that some participants were not wearing life jackets consistently throughout the trip. Could you please provide more information on your safety protocols and how they are enforced?
+
+2. Equipment Condition:
+   During the tour, I encountered some technical issues with the jet ski I was assigned. The engine seemed to sputter at times, which made me a bit uneasy. Can you clarify your maintenance procedures and how often the jet skis are inspected for safety and performance?
+
+3. Tour Duration:
+   I thoroughly enjoyed the tour, but it felt a bit shorter than I had expected. Could you provide more details on the typical duration of your tours, including any available options for longer excursions?
+
+4. Life of Dice:
+   Lastly, I have a unique question unrelated to jet skis. I'm curious about the "Life of Dice" and how it's related to your business. Could you please explain this concept?
+
+I appreciate your prompt attention to these inquiries and concerns. It's essential for me to understand these aspects better for future visits and to ensure a safe and enjoyable experience for all participants.
+--===============7419076472319893946==--
+
+--===============6145554155486357447==--

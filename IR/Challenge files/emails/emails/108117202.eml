@@ -1,0 +1,70 @@
+Content-Type: multipart/mixed; boundary="===============0569245645326683199=="
+MIME-Version: 1.0
+Received: by a184:909b:de21:55b2:b2b6:68c3:ea5d:8f14 with SMTP id o17-98426; Fri, 01 Sep 2023 10:00:41 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=250; cv=none; d=giftcardgenius.com; s=arc-20160816;b=qK4jP7msrfsoNycfHDcQcSMcrXzdziYhO9Ggub+AHe+U5et3EEnx3yqkjlzcsenfHximz9RJXFaDd1I+jlZI2w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=giftcardgenius.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=XOZsmIN4osjemf5RfZziwtyPOU5cMjdvGqMXacYpNtei==;fh=PuItSECMd47ns9O9c88dplng+UEq9B0BmA8SGiMlOg====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=giftcardgenius.com; s=5464; t=4933; x=2359;h=from:to:subject:date:message-id;bh=BBt/+mY1+Zdv9jo1NsImBi4f9ifIqtndQTLZJxbKTdPq==;b=i7iR4OhDdBOrcGhmxmX9bkAMjyRMbv3s7CK8UUOiLQ==
+X-Sender-IP: 236.25.216.31
+X-Sender: info@giftcardgenius.com
+X-Cross-Received-Date: Fri, 01 Sep 2023 10:00:41 
+From: info@giftcardgenius.com
+To: hudsonhustles844@gmail.com
+Subject: Claim Your Free Amazon Gift Cards Now!
+Date: Fri, 01 Sep 2023 10:00:41 
+
+--===============0569245645326683199==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We hope this email finds you well. At GiftCardGenius, we are excited to offer you an incredible opportunity to win free Amazon Gift cards worth up to $500!
+
+Are you an avid online shopper? Do you love the convenience and endless options that Amazon provides? Well, you're in luck! We are running a limited-time promotion, and all you need to do is participate to get your hands on these fantastic prizes.
+
+Here's how it works:
+1. Click on the link below to access our giveaway page.
+2. Complete a short survey to qualify for the gift card drawing.
+3. You could be one of the lucky winners to receive Amazon Gift cards.
+
+[Click here to participate now](https://www.giftcardgenius.com/free-amazon-gift-cards)
+
+Hurry, as this offer won't last forever! The more surveys you complete, the higher your chances of winning.
+
+Don't miss out on this fantastic opportunity to stock up on your favorite Amazon products for free. Start clicking, and you could be shopping on us in no time!
+
+Best regards,
+
+John Doe
+Customer Support Team
+GiftCardGenius
+--===============0569245645326683199==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Claim Your Free Amazon Gift Cards Now!</title>
+</head>
+<body>
+    <p>Hello,</p>
+    <p>We hope this email finds you well. At GiftCardGenius, we are excited to offer you an incredible opportunity to win free Amazon Gift cards worth up to $500!</p>
+    <p>Are you an avid online shopper? Do you love the convenience and endless options that Amazon provides? Well, you're in luck! We are running a limited-time promotion, and all you need to do is participate to get your hands on these fantastic prizes.</p>
+    <p>Here's how it works:</p>
+    <ol>
+        <li>Click on the link below to access our giveaway page.</li>
+        <li>Complete a short survey to qualify for the gift card drawing.</li>
+        <li>You could be one of the lucky winners to receive Amazon Gift cards.</li>
+    </ol>
+    <p><a href="https://infected-phishing.csaw.io/">Click here to participate now</a></p>
+    <p>Hurry, as this offer won't last forever! The more surveys you complete, the higher your chances of winning.</p>
+    <p>Don't miss out on this fantastic opportunity to stock up on your favorite Amazon products for free. Start clicking, and you could be shopping on us in no time!</p>
+    <p>Best regards,</p>
+    <p>John Doe<br>Customer Support Team<br>GiftCardGenius</p>
+</body>
+</html>
+--===============0569245645326683199==--

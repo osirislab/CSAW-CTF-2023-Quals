@@ -1,0 +1,33 @@
+Content-Type: multipart/mixed; boundary="===============8000547420049659681=="
+MIME-Version: 1.0
+Received: by 930e:643b:b779:9092:4a0e:e57d:4f1c:a4c4 with SMTP id o17-93535; Thu, 10 Aug 2023 09:39:58 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=2472; cv=none; d=gmail.com; s=arc-20160816;b=aqEn1E4laZLSfZSEEyQ3+Ftpu0/9mxRtrTJm0RkBNjvvK8oQMllWDkxDZExFPu5TWGWjkQTRhcDhEGHzcp+46A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=C2zNKZGUwjHyK18RjvGQiOdDeaJteh5jAYItpql5w1Qe==;fh=Z3Z2KLI00PcXMTzJeEsz8TMysQ5wz/cqp263Z5BqNw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=8613; t=6299; x=1255;h=from:to:subject:date:message-id;bh=udv0Lh/sulp8at7hgi74VhmrISKfgeVgaF/F/jyDAJpZ==;b=0tPayn+mvqBVfy9bkICbcIYo3S2qcVSPTnwRUYt7HA==
+X-Sender-IP: 200.134.80.215
+X-Sender: john.doe@gmail.com
+X-Cross-Received-Date: Thu, 10 Aug 2023 09:39:58 
+From: john.doe@gmail.com
+To: hudsonhustles844@gmail.com
+Subject: Permission Request
+Date: Thu, 10 Aug 2023 09:39:58 
+
+--===============8000547420049659681==
+Content-Type: multipart/alternative; boundary="===============7890758365599492765=="
+MIME-Version: 1.0
+
+--===============7890758365599492765==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hey Hudson Hustles,
+
+I was wondering if I could just, like, borrow one of your jet skis forever without having to pay anything. It would be super cool, and I promise to take good care of it. Let me know, okay?
+
+Thanks,
+Alex Smith
+--===============7890758365599492765==--
+
+--===============8000547420049659681==--

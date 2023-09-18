@@ -1,0 +1,61 @@
+Content-Type: multipart/mixed; boundary="===============7994943480962709366=="
+MIME-Version: 1.0
+Received: by 7625:e1f8:0edc:6134:2207:3a72:672c:1309 with SMTP id o17-37231; Wed, 28 Jun 2023 07:55:57 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6331; cv=none; d=googleads.com; s=arc-20160816;b=QF82jVljhpXPeZwrYIu+3aqbtGjPD4My2k8l5lQuvjfWm6lEeCJgcmMqmCHtcOOiSqyVf7WvOpaBMsJXM9O2ig==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=googleads.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=4yK5TGQr3OUG4z/MbGhELnuV0MK4EysmXgM9EHvO3AGM==;fh=NZDBnDjCKvhmgKlyvgKMAos1BswOf+52wSfX7tJ9xg====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=googleads.com; s=8264; t=3303; x=9022;h=from:to:subject:date:message-id;bh=TgfWppCCUS1LGy1SYQz4tlzAhM/dAiTkSrr9iKVY3NiI==;b=/uxVij4OB9DUS/xtWRh9XG5rw/inWAvFB7o6JBtjOw==
+X-Sender-IP: 144.147.214.9
+X-Sender: info@googleads.com
+X-Cross-Received-Date: Wed, 28 Jun 2023 07:55:57 
+From: info@googleads.com
+To: hudsonhustles844@gmail.com
+Subject: Exciting Opportunity: Google Ads Account Setup!
+Date: Wed, 28 Jun 2023 07:55:57 
+
+--===============7994943480962709366==
+Content-Type: multipart/alternative; boundary="===============9096945948630847841=="
+MIME-Version: 1.0
+
+--===============9096945948630847841==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Ads</title>
+</head>
+<body>
+    <p>Dear Valued Customer,</p>
+    
+    <p>We are thrilled to introduce you to an incredible opportunity to boost your online presence and drive business growth with Google Ads.</p>
+
+    <p>Google Ads is the leading online advertising platform that allows businesses like yours to reach potential customers across the web. Whether you're a small startup or a well-established brand, our advertising solutions can help you achieve your marketing goals.</p>
+
+    <p>Here are some of the benefits of advertising with Google Ads:</p>
+
+    <ul>
+        <li>Targeted Advertising: Reach the right audience with precision targeting options.</li>
+        <li>Cost-Effective: Set your own budget and pay only when users engage with your ads.</li>
+        <li>Performance Tracking: Monitor the success of your campaigns and make data-driven decisions.</li>
+        <li>Global Reach: Expand your reach to a worldwide audience.</li>
+    </ul>
+
+    <p>Ready to get started? Our team of experts is here to assist you in setting up your Google Ads account and crafting effective advertising campaigns tailored to your business needs.</p>
+
+    <p>Contact us today to schedule a consultation:</p>
+
+    <p>Email: <a href="mailto:info@googleads.com">info@googleads.com</a></p>
+    <p>Phone: +1-800-GOOGLE-ADS</p>
+
+    <p>Don't miss out on this opportunity to supercharge your online marketing efforts. Join thousands of businesses who have already benefited from Google Ads!</p>
+
+    <p>Best regards,</p>
+    <p>The Google Ads Team</p>
+</body>
+</html>
+--===============9096945948630847841==--
+
+--===============7994943480962709366==--

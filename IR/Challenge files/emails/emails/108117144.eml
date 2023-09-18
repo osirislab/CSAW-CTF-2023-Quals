@@ -1,0 +1,44 @@
+Content-Type: multipart/mixed; boundary="===============2942467282118688720=="
+MIME-Version: 1.0
+Received: by ae71:ddc1:2b87:e4f3:5aba:844a:d539:d9b5 with SMTP id o17-55040; Sat, 01 Jul 2023 06:24:22 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=2415; cv=none; d=example.com; s=arc-20160816;b=k+wqKWPAn77Tz76Gf37DgtJTpsEhdfnd+0H1g9/gENK36SMe0TE/YyEMIaeN0JVZPIXxIrVURxMAl+mbQo+2tw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=example.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=hwV4nCteemzkn3qJB0z+Oq+8v4Urepb/YE5Slj8EpupX==;fh=zJiOZUIpiYv6jeX2GRMrwbLpGkDX91N8A8FFILt5eA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=example.com; s=264; t=1853; x=3267;h=from:to:subject:date:message-id;bh=HhAMiWfOYk6bwxASWmGAIKBpr0yz3M+oFvEChmn1mWH7==;b=NiI3pfnHUbzXRLjB/6biIOjYry+GsX355n1oAEKd/A==
+X-Sender-IP: 75.180.187.104
+X-Sender: senderemail@example.com
+X-Cross-Received-Date: Sat, 01 Jul 2023 06:24:22 
+From: senderemail@example.com
+To: hudsonhustles844@gmail.com
+Subject: Concerns Regarding Jet Ski Charges
+Date: Sat, 01 Jul 2023 06:24:22 
+
+--===============2942467282118688720==
+Content-Type: multipart/alternative; boundary="===============2442953627683867529=="
+MIME-Version: 1.0
+
+--===============2442953627683867529==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Sarah Anderson, and I recently had the pleasure of experiencing a thrilling jet ski adventure with your company on the Hudson River. While I thoroughly enjoyed the experience, I am writing to express some concerns regarding the charges incurred during my visit.
+
+Upon reviewing my credit card statement, I noticed that I was billed double the amount that was initially quoted to me for the jet ski rental. I booked a single jet ski for a two-hour ride, which was supposed to cost $150 according to your website. However, my credit card was charged $300 for the same rental.
+
+I would like to request an explanation for this discrepancy and seek a resolution to this matter. I believe there might have been an error in the billing process or a misunderstanding regarding the pricing. It's essential for me to clarify this issue promptly, as the double charge has caused some financial inconvenience.
+
+To help you investigate this matter, I have attached a copy of my reservation confirmation and the credit card statement showing the double charge.
+
+Please let me know at your earliest convenience how this issue will be addressed. I can be reached at senderemail@example.com or by phone at (555) 123-4567.
+
+I appreciate your prompt attention to this matter and hope for a swift resolution.
+
+Sincerely,
+
+Sarah Anderson
+--===============2442953627683867529==--
+
+--===============2942467282118688720==--

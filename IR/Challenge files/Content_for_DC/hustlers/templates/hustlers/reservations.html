@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hudson Hustles - Make a Reservation</title>
+</head>
+<body>
+    <h2>Make a Reservation</h2>
+
+    <form action="{% url 'make_reservation' %}" method="post">
+        {% csrf_token %}
+        <div>
+            <label for="start_stop">Start Stop:</label>
+            <select name="start_stop" required>
+                <!-- Repeat for each stop -->
+                <option value="Harlem">West Side Highway near 116th Street</option>
+                <!-- ... -->
+            </select>
+        </div>
+        <div>
+            <label for="end_stop">End Stop:</label>
+            <select name="end_stop" required>
+                <!-- Repeat for each stop -->
+                <option value="Harlem">West Side Highway near 116th Street</option>
+                <!-- ... -->
+            </select>
+        </div>
+        <div>
+            <label for="date">Date:</label>
+            <input type="date" name="date" required>
+        </div>
+        <div>
+            <label for="time">Time:</label>
+            <input type="time" name="time" required>
+        </div>
+        <input type="submit" value="Make Reservation">
+    </form>
+</body>
+</html>

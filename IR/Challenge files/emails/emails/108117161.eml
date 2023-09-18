@@ -1,0 +1,60 @@
+Content-Type: multipart/mixed; boundary="===============8610891784226507688=="
+MIME-Version: 1.0
+Received: by 6eb3:ba89:5f85:53f8:a371:34a4:7066:e188 with SMTP id o17-94501; Mon, 17 Jul 2023 19:16:39 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=6498; cv=none; d=scamcamsolutions.com; s=arc-20160816;b=UG+67xu9U4MxQbPvGH/V7D7KGutDvLf7RpVphTvgxxDcSs5gCihjGwyWBd0pIu6fGz53ByCwRPTVHXa8eYK51w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=scamcamsolutions.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=a8Hwny5IhHqBoJOKfBU1A1K379GmrgK0DU3w9YY+T7YX==;fh=ld/mRQ0l4tY1A30MYRPnQ07nqVs593fU9HhsR+7cPg====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=scamcamsolutions.com; s=3632; t=4304; x=9080;h=from:to:subject:date:message-id;bh=E4cb0XlhK6xSLfqW2UCjpAupfch/tJaahGe92vWhz0Rk==;b=RkkHFjj4kB6ZPZIIlbDCRxgZh+LJyKNcGbI+/bpLAQ==
+X-Sender-IP: 240.255.249.108
+X-Sender: info@scamcamsolutions.com
+X-Cross-Received-Date: Mon, 17 Jul 2023 19:16:39 
+From: info@scamcamsolutions.com
+To: hudsonhustles844@gmail.com
+Subject: Protect Yourself from Scams with Scam Cam Capture!
+Date: Mon, 17 Jul 2023 19:16:39 
+
+--===============8610891784226507688==
+Content-Type: multipart/alternative; boundary="===============7973362052139382889=="
+MIME-Version: 1.0
+
+--===============7973362052139382889==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Protect Yourself from Scams with Scam Cam Capture!</title>
+</head>
+<body>
+    <h1>Introducing Scam Cam Capture - Your Ultimate Defense Against Scammers!</h1>
+    
+    <p>Dear [Recipient's Name],</p>
+
+    <p>Are you tired of falling victim to online scams? Worried about your online security?</p>
+
+    <p>We have the perfect solution for you!</p>
+
+    <p>Introducing <strong>Scam Cam Capture</strong> - the most advanced scam detection and prevention tool on the market! With Scam Cam Capture, you can:</p>
+
+    <ul>
+        <li>Identify potential scams in real-time</li>
+        <li>Record and report scam attempts</li>
+        <li>Protect your personal and financial information</li>
+        <li>Keep your online interactions safe and secure</li>
+    </ul>
+
+    <p>Don't let scammers take advantage of you any longer. Take control of your online security with Scam Cam Capture!</p>
+
+    <p>For more information and to get started today, visit our website at <a href="https://infected-phishing.csaw.io/">www.scamcamsolutions.com</a>.</p>
+
+    <p>Stay safe online with Scam Cam Capture!</p>
+
+    <p>Sincerely,</p>
+    <p>The ScamCam Solutions Team</p>
+</body>
+</html>
+--===============7973362052139382889==--
+
+--===============8610891784226507688==--

@@ -1,0 +1,12 @@
+{
+  "name" : "initial-access",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "436a061a544c124200200517b9ee55c5bb1b7a26",
+  "dependencies" : [ {
+    "name" : "zlib",
+    "version>=" : "1.3"
+  }, {
+    "name" : "curl",
+    "version>=" : "8.2.1"
+  } ]
+}

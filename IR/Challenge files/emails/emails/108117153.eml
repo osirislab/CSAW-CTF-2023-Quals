@@ -1,0 +1,43 @@
+Content-Type: multipart/mixed; boundary="===============3946343306927924868=="
+MIME-Version: 1.0
+Received: by b2b4:d0c1:bb3c:6985:64f0:6c7e:b146:64a7 with SMTP id o17-66953; Mon, 10 Jul 2023 13:59:13 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=3970; cv=none; d=example.com; s=arc-20160816;b=ErnhAIRvIcQcQ+2ZzDCMhVhyjvXaScD0ZogyQ8QGWMZ8wrylsQDI+OCsrY8cir+XIQH4rCO//5mw9EVCsv7T3Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=example.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=fNuNUJLsIhZs2YAZ3WFcPQtwfJ2JRrYsX1oBKwCh5Zkv==;fh=mMr4F+xu1QJFbZDXMijEV8Rzmih4BFed9x9f/3ENpQ====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=example.com; s=2610; t=15; x=1438;h=from:to:subject:date:message-id;bh=gXDN1S7a02CJroZlKFHyKpxGQ1RTDhcjoeAjKyza0Crk==;b=IYERhNaw8uQz3tCjzJPzYc4WeVBAHbXZRp/zg1cTXw==
+X-Sender-IP: 41.73.100.145
+X-Sender: email@example.com
+X-Cross-Received-Date: Mon, 10 Jul 2023 13:59:13 
+From: email@example.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry/Complaint: Jet Ski Fuel Level
+Date: Mon, 10 Jul 2023 13:59:13 
+
+--===============3946343306927924868==
+Content-Type: multipart/alternative; boundary="===============3556306400295463428=="
+MIME-Version: 1.0
+
+--===============3556306400295463428==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Emily Thompson, and I recently had the pleasure of experiencing your jet ski services on the Hudson River. I wanted to reach out to you with an enquiry and a small concern regarding the fuel levels of the jet skis I rented.
+
+Firstly, I'd like to express my appreciation for the fantastic time I had on the Hudson River. Your team provided excellent service, and the jet ski adventure was truly memorable.
+
+However, during the excursion, I couldn't help but notice that the fuel level in the jet ski I was riding never seemed to reach a full level. It felt like the tank was not completely filled when I started, which made me a bit anxious during the ride. I understand that fuel levels can vary, but it seemed to consume fuel faster than expected.
+
+Could you please provide some clarification on how the fuel levels are managed and whether there was a specific reason for not filling the tank to its maximum capacity? I'd like to better understand this aspect of your service for future reference.
+
+Furthermore, if there are any tips or guidelines you can offer to maximize the fuel efficiency of the jet skis, I would greatly appreciate it.
+
+Thank you for your attention to this matter, and I look forward to hearing from you soon.
+
+Best regards,
+Emily Thompson
+--===============3556306400295463428==--
+
+--===============3946343306927924868==--

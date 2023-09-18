@@ -1,0 +1,45 @@
+Content-Type: multipart/mixed; boundary="===============4537004843820000079=="
+MIME-Version: 1.0
+Received: by 9ee6:83ec:1dca:d527:bc9c:0feb:3d04:3e73 with SMTP id o17-49794; Fri, 18 Aug 2023 16:51:25 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=527; cv=none; d=sampleemail.com; s=arc-20160816;b=DnKkXPqEYnWf6+IQQN7KhXJDgQ/aDjpuFBeUEGtIUxMj7IMFbLGEZ3j+zznkMfTAVQr2wbpqNx7i3Slvv2lj5w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=sampleemail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=gtwErgpinYX4MOvC9vWtaMpMiuxbgmeYTpzf4+geAtGs==;fh=0IYAF+E/DgdrmQx8wWUIlmHWwXRLHRdvnf7sqHuguw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sampleemail.com; s=4095; t=1954; x=3397;h=from:to:subject:date:message-id;bh=qk4dD1RouH5IHpweKOUcsE+XJjP1Ev4BT52LB44s9nTC==;b=eRHbJ7+zB5C6uDSCvtGGUXhFFBTkT3AAD8hjSe1biA==
+X-Sender-IP: 115.178.145.228
+X-Sender: sample@sampleemail.com
+X-Cross-Received-Date: Fri, 18 Aug 2023 16:51:25 
+From: sample@sampleemail.com
+To: hudsonhustles844@gmail.com
+Subject: Enquiry about Jet Ski Rental
+Date: Fri, 18 Aug 2023 16:51:25 
+
+--===============4537004843820000079==
+Content-Type: multipart/alternative; boundary="===============6141952103341772454=="
+MIME-Version: 1.0
+
+--===============6141952103341772454==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello Hudson Hustles Team,
+
+I hope this email finds you well. My name is John Smith, and I'm writing to inquire about your Jet Ski rental services on the Hudson River. I've heard great things about your company and I'm interested in taking one of your Jet Skis out for a day.
+
+I have a special plan in mind to impress my girlfriend, and I believe a day on the Hudson River with one of your Jet Skis would be the perfect way to do it. However, before I proceed with the booking, I have a few questions:
+
+1. What are the rental rates for a full day, including any additional fees or charges?
+2. Do I need any prior experience or a license to rent a Jet Ski from Hudson Hustles?
+3. Are there any specific routes or areas on the Hudson River where we can ride the Jet Ski?
+4. What safety measures and equipment do you provide with the rental?
+5. Can I make a reservation in advance, and if so, what is the booking process?
+
+I would greatly appreciate it if you could provide me with the necessary information so that I can plan my day accordingly. Your assistance in helping me impress my girlfriend will mean a lot to me.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Best regards,
+Sample Smith
+--===============6141952103341772454==--
+
+--===============4537004843820000079==--

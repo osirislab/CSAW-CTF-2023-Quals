@@ -1,0 +1,45 @@
+Content-Type: multipart/mixed; boundary="===============4706661546984577593=="
+MIME-Version: 1.0
+Received: by f9b2:744e:8591:1ac9:4c0b:0b18:8fd3:1d3e with SMTP id o17-62557; Thu, 20 Jul 2023 00:20:49 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=2972; cv=none; d=examail.com; s=arc-20160816;b=cOnmgJqDa/D+QoUF2GEUx3JBWYuL+oKYqKwZF3wCZ6K7OmEFuo4thCSpudc43SqM66pM8d5OhfeldPgBDk8Tzg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=examail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=Dt8nWRaeBHYmtV/aWliBqWkwSDf5qgroEMxhc4RCEZ8M==;fh=9xz0MIAMsacJJ9qfm84HJr8+dXmUStt8h3gJNyr2EA====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=examail.com; s=4016; t=7994; x=6746;h=from:to:subject:date:message-id;bh=gjwa8YMZUU4ecrzAfOrYaeMOp24liR0W/QZnFyi4KYzC==;b=Y8Y9oDgTnSusnkujWXpORP/Xrq0vQc+A3ESWujpdYg==
+X-Sender-IP: 228.255.186.195
+X-Sender: why@examail.com
+X-Cross-Received-Date: Thu, 20 Jul 2023 00:20:49 
+From: why@examail.com
+To: hudsonhustles844@gmail.com
+Subject: Inquiry About Eco-Friendliness of Jet Skis
+Date: Thu, 20 Jul 2023 00:20:49 
+
+--===============4706661546984577593==
+Content-Type: multipart/alternative; boundary="===============7057415280196120612=="
+MIME-Version: 1.0
+
+--===============7057415280196120612==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this email finds you well. My name is Sarah Green, and I recently came across your company, Hudson Hustles, while researching recreational activities around the Hudson River. I'm quite intrigued by the idea of jet skiing on the Hudson River, but I have some concerns regarding the eco-friendliness of jet skis.
+
+As someone who values the environment and is conscious of the impact of recreational activities on our natural surroundings, I wanted to inquire about the environmental practices and policies your company follows. Specifically, I would like to know:
+
+1. Are the jet skis you use eco-friendly or equipped with any environmentally conscious features?
+2. Do you have any measures in place to minimize noise pollution in the Hudson River?
+3. What steps do you take to ensure the safety and preservation of the river's ecosystem during jet ski tours?
+
+I believe it's essential for recreational companies like yours to be mindful of their ecological footprint, and I'm eager to learn more about how Hudson Hustles aligns with environmentally responsible practices.
+
+Please provide me with any relevant information or resources that address these concerns. Your response will help me make an informed decision about whether to partake in your jet ski tours.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Sincerely,
+Sarah Green
+--===============7057415280196120612==--
+
+--===============4706661546984577593==--

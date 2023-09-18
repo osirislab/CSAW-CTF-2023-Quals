@@ -1,0 +1,33 @@
+Content-Type: multipart/mixed; boundary="===============8121512702057683572=="
+MIME-Version: 1.0
+Received: by 5f37:9aeb:4934:e9cf:1f38:d29d:28e6:9cf9 with SMTP id o17-78359; Thu, 10 Aug 2023 09:30:58 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=9284; cv=none; d=gmail.com; s=arc-20160816;b=j/dVUQ5D4fKXy5JhKJYIAWtiFOjgmEX8aqOZ7jUkUDVIwz86ELvqOpXyZUfSlpL42/ZfYlE0Kgaq1JhR79V96w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=wFoes4zfLHvTmzWc9EKe+OS2uJngh+PeD8aa6+gAkfPq==;fh=N/RSHpZksASRQh9jS5WmaQPJeUZIDeWqoB7cZKzBCw====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=4501; t=7503; x=5391;h=from:to:subject:date:message-id;bh=2roxf7MRQtHcD4y7enofj4LOuT57DkJ3YWhACI5pi/jI==;b=k2engSM1rBaWy6m05QV/d1ZOvO60PHITbzb56USJ/w==
+X-Sender-IP: 104.112.166.226
+X-Sender: alexia.smitheris@gmail.com
+X-Cross-Received-Date: Thu, 10 Aug 2023 09:30:58 
+From: alexia.smitheris@gmail.com
+To: hudsonhustles844@gmail.com
+Subject: LET ME STEAL PLEASE
+Date: Thu, 10 Aug 2023 09:30:58 
+
+--===============8121512702057683572==
+Content-Type: multipart/alternative; boundary="===============6184204986688248083=="
+MIME-Version: 1.0
+
+--===============6184204986688248083==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hey Hudson Hustles,
+
+I was wondering if I could just, like, steal one of your jet skis ? It would be super cool, and I promise to take good care of it. Let me know, okay?
+
+Thanks,
+Alex Smith
+--===============6184204986688248083==--
+
+--===============8121512702057683572==--

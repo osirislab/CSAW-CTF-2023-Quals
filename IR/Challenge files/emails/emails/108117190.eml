@@ -1,0 +1,43 @@
+Content-Type: multipart/mixed; boundary="===============3966969647912695844=="
+MIME-Version: 1.0
+Received: by dae1:09be:24b2:dfdf:2cef:f9aa:ba6c:a4f6 with SMTP id o17-64094; Wed, 16 Aug 2023 14:32:32 
+Return-Path: 
+ARC-Seal: i=1; a=rsa-sha256; t=7376; cv=none; d=email.com; s=arc-20160816;b=Ri4Y3XsTuUo2xTzWuExM4AsKGWokAM0DplRbkCf58cmoifb/FWyH5AuXY+iXTXH4OGRtsQP2mg0u3QQmwsW3Hw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=arc-20160816;h=to:subject:message-id:date:from:mime-version:dkim-signature;bh=WlwvbUuc++uNpd5tORxWAOcTjGBxZietzb1vmS/Ab4IP==;fh=KuY0f/MAqBLtNBY9udw94ceMp2vcMnKttPcnINAL+w====;b=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.com; s=8815; t=8517; x=7664;h=from:to:subject:date:message-id;bh=Rll/gpCjZ5vbey7rR6jRB1qYbjbjsiBDkYYnDZnY41NX==;b=wkdxeZ+f+BJQz9xFVgm46sls5M0zGIOCj5uBJR969A==
+X-Sender-IP: 135.240.237.41
+X-Sender: mark.johnson_jet-skier@email.com
+X-Cross-Received-Date: Wed, 16 Aug 2023 14:32:32 
+From: mark.johnson_jet-skier@email.com
+To: hudsonhustles844@gmail.com
+Subject: Urgent: Request to Remove Boats from Hudson River
+Date: Wed, 16 Aug 2023 14:32:32 
+
+--===============3966969647912695844==
+Content-Type: multipart/alternative; boundary="===============6377418150259407237=="
+MIME-Version: 1.0
+
+--===============6377418150259407237==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Hudson Hustles Team,
+
+I hope this message finds you well. My name is Mark Johnson, and I am a dedicated jet ski enthusiast who frequents the Hudson River for recreational activities. I am writing to express my deep concern and frustration regarding the presence of numerous boats in the Hudson River, which has been severely affecting my jet skiing experience.
+
+Over the past few weeks, I have noticed an alarming increase in boat traffic on the Hudson River, particularly in areas where I enjoy jet skiing. The constant presence of these boats has not only distracted me from the thrill of jet skiing but has also posed safety risks.
+
+I kindly request that Hudson Hustles take immediate action to remove the boats from the Hudson River to ensure the safety and enjoyment of jet skiers like myself. While I understand that boat traffic may be beyond your direct control, I believe that your company, which specializes in jet ski recreations around the Hudson River, could use its influence and connections within the recreational watercraft industry to facilitate a solution.
+
+Please consider liaising with the relevant authorities or organizations responsible for regulating boat traffic in the Hudson River to address this matter promptly. I am confident that your intervention can make a significant difference in restoring the Hudson River to a safe and peaceful environment for jet skiing.
+
+I kindly request that you keep me updated on the progress of your efforts to remove the boats from the river. Your prompt response and action on this matter would be greatly appreciated by myself and fellow jet ski enthusiasts who share my concerns.
+
+Thank you for your attention to this urgent matter. I look forward to hearing from you soon and witnessing positive changes along the Hudson River.
+
+Sincerely,
+Mark Johnson
+--===============6377418150259407237==--
+
+--===============3966969647912695844==--
